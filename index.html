@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Client+ — case management for community nonprofits</title>
-<meta name="description" content="Case management software for small nonprofits in Northern California. Intake, client records, case notes, documents, reminders and funder reports, deployed once into your own cloud environment.">
+<meta name="description" content="Hire people for your org, not for your software. Case management for small nonprofits in Northern California, bought once and run in your organization's own AWS account.">
 <meta property="og:title" content="Client+ — case management for community nonprofits">
-<meta property="og:description" content="Intake, client records, case notes, documents, reminders and the reports funders ask for. Bought once, running in your own cloud environment.">
+<meta property="og:description" content="Hire people for your org, not for your software. Case management bought once, run by the staff you already have, in your own AWS account.">
 <meta property="og:type" content="website">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%23B0174F'/><path d='M50 26v48M26 50h48' stroke='white' stroke-width='13' stroke-linecap='round'/></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -72,6 +72,8 @@ h1{
 .btn.primary:hover{filter:brightness(1.08)}
 .btn.ghost{border:1px solid var(--rule); color:var(--ink); background:var(--surface); box-shadow:var(--shadow)}
 .btn.ghost:hover{border-color:var(--accent); color:var(--accent)}
+.assure{font-family:Archivo,system-ui,sans-serif; font-size:14px; color:var(--muted); margin:18px 0 0; padding-left:12px; border-left:3px solid var(--accent)}
+.assure strong{color:var(--ink); font-weight:600}
 section{padding:46px 0; border-top:1px solid var(--rule-soft)}
 section:first-of-type{border-top:0}
 h2{
@@ -127,15 +129,23 @@ footer a{color:var(--accent)}
 
 <div class="wrap hero">
   <p class="eyebrow">Case management for community nonprofits</p>
-  <h1>Your client records, in your own system, without a monthly seat license.</h1>
-  <p class="lede">Intake, client records, case notes, documents, reminders, program history and the reports funders ask for — built for small teams in Northern California, and deployed once into an environment your organization owns.</p>
+  <h1>Hire people for your org, not for your software.</h1>
+  <p class="lede">Case management for small nonprofits in the North State: intake, client records, case notes, documents, reminders and the reports funders ask for. Bought once, run by the staff you already have, in your organization's own AWS account.</p>
   <div class="cta">
     <a class="btn primary" href="https://wa.me/17757227725">Message us on WhatsApp</a>
     <a class="btn ghost" href="mailto:ryanvukich@gmail.com">Send an email</a>
   </div>
+  <p class="assure"><strong>Built for HIPAA.</strong> HIPAA-eligible AWS services in your own AWS account, and a signed business associate agreement with us.</p>
 </div>
 
 <div class="wrap">
+
+<section id="why">
+  <h2>Why it exists</h2>
+  <h3>Nobody was hired to feed a database</h3>
+  <p>The system is the easy part to budget for. The person who ends up running it is not: the database coordinator, the part-time data clerk, the consultant on retainer, the one staff member who knows how the funder report gets built and takes that knowledge along when they leave.</p>
+  <p>Client+ is set up so the people already on your payroll run it. Deployment includes two live training sessions. After that, your next hire can be a case manager.</p>
+</section>
 
 <section id="what">
   <h2>What it does</h2>
@@ -160,8 +170,8 @@ footer a{color:var(--accent)}
       <p>There is a one-time deployment fee and no per-seat license. Add a volunteer, add a case manager, add a whole program — the price does not move. Support is bought in prepaid blocks of hours that never expire, and unused hours roll forward.</p>
     </div>
     <div class="point">
-      <h3>It runs in your environment</h3>
-      <p>Each organization gets its own dedicated cloud environment — its own database, its own file storage, its own encryption key. Your records are never in a database shared with another agency. Cloud hosting is passed through at cost, typically $60 to $120 a month, paid to the provider rather than marked up by us.</p>
+      <h3>It runs in your own AWS account</h3>
+      <p>Your deployment lives in an Amazon Web Services account your organization owns, with its own database, its own file storage and its own encryption key. Your records are never in a database shared with another agency. AWS bills your organization directly for hosting, typically $60 to $120 a month, and we never mark it up. You give us the administrative access we need to support it, and you can take that access back whenever you choose.</p>
     </div>
     <div class="point">
       <h3>You can leave whenever you want</h3>
@@ -178,6 +188,7 @@ footer a{color:var(--accent)}
   <h2>Security and privacy</h2>
   <p>Client information is treated as protected health information whether or not your programs bill anyone.</p>
   <ul class="plain">
+    <li><b>Where it runs</b><span>Your organization's own AWS account, on HIPAA-eligible services under AWS's business associate addendum</span></li>
     <li><b>Encryption</b><span>Records encrypted at rest with a key dedicated to your organization, and in transit under a FIPS-validated policy</span></li>
     <li><b>Access control</b><span>Role and program based, enforced in the database itself rather than only in the screens</span></li>
     <li><b>Two-factor</b><span>Required for staff access to client records</span></li>
@@ -188,7 +199,7 @@ footer a{color:var(--accent)}
   <div class="callout">
     <p><strong>On artificial intelligence:</strong> no AI service ever receives your client records. The optional grants assistant can read only your organization's own public web pages and text a staff member types into it, it has no path to a client table, and it stays switched off until you turn it on.</p>
   </div>
-  <p>We sign a business associate agreement with every customer. The platform and our practices are designed to support your compliance with the HIPAA Security and Privacy Rules — no vendor can hand you a HIPAA certificate, and we do not pretend otherwise. Certifications such as SOC 2 and ISO 27001 belong to the cloud provider and cover its infrastructure, not your program.</p>
+  <p><strong>Built for HIPAA.</strong> Your deployment runs on HIPAA-eligible AWS services in your own AWS account, under AWS's business associate addendum, and we sign our own business associate agreement with you. The platform and our practices are designed to support your compliance with the HIPAA Security and Privacy Rules; your own risk analysis, policies and staff training complete it. No vendor can hand you a HIPAA certificate, and we do not pretend otherwise. Certifications such as SOC 2 and ISO 27001 belong to AWS and cover its infrastructure, not your program.</p>
 </section>
 
 <section id="price">
@@ -199,7 +210,7 @@ footer a{color:var(--accent)}
     <li><b>Deployment</b><span>$20,000 one time. Configuration to your programs, migration of the records you already have, two live training sessions, and thirty days of support after go-live.</span></li>
     <li><b>Support</b><span>$2,500 for a block of ten hours, for the work you ask for: new reports, added programs, extra training, bulk data changes. Blocks never expire and unused hours roll forward.</span></li>
     <li><b>Optional modules</b><span>$5,000 one time each. Grants management, and a QuickBooks Online integration.</span></li>
-    <li><b>Cloud hosting</b><span>At cost, typically $60 to $120 a month, paid to the provider and not marked up by us.</span></li>
+    <li><b>Cloud hosting</b><span>Billed by AWS directly to your organization's own account, typically $60 to $120 a month. No markup, because the bill never passes through us.</span></li>
     <li><b>Per staff member</b><span>Nothing. Add a case manager, a volunteer or a whole program without the price changing.</span></li>
   </ul>
   <p>For most organizations that means about $20,000 in year one and roughly $1,200 a year after that, plus support hours only when you want them. We will put the whole thing in writing before you spend a minute in a demonstration.</p>
@@ -218,7 +229,7 @@ footer a{color:var(--accent)}
     <dd>No. Spreadsheets, an old database, or scanned paper files organized by client are all things we migrate as part of a deployment. Paper-only records take longer and get quoted separately.</dd>
 
     <dt>What happens if you disappear?</dt>
-    <dd>Your deployment runs in your own cloud environment, and your export is always available. The customer agreement says that if Client+ stops operating, you keep running the version you have and we hand over the documentation needed to maintain it.</dd>
+    <dd>Your deployment runs in your own AWS account, and your export is always available. The customer agreement says that if Client+ stops operating, you keep running the version you have and we hand over the documentation needed to maintain it.</dd>
 
     <dt>Do you see our client data?</dt>
     <dd>Only what is needed to run and support the system, logged when it happens, and under a business associate agreement. Support conversations refer to records by ID — we ask customers never to send client details over WhatsApp or email.</dd>
@@ -227,7 +238,7 @@ footer a{color:var(--accent)}
     <dd>Yes. Programs are configured per organization, with their own intake questions, staff access and reporting, and a client can move between them with the history kept.</dd>
 
     <dt>Is the $20,000 really it?</dt>
-    <dd>For the deployment, yes. After that you pay cloud hosting at cost and buy support hours if and when you want them. Nothing renews on its own, and nothing is priced per staff member.</dd>
+    <dd>For the deployment, yes. After that you pay AWS for hosting directly and buy support hours if and when you want them. Nothing renews on its own, and nothing is priced per staff member.</dd>
 
     <dt>What if we run out of support hours?</dt>
     <dd>Nothing stops. Security patches, platform updates, backups, fixing anything broken in the software, and getting your data out are never billed against a support block. Hours are for the work you ask us to do.</dd>
