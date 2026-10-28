@@ -1,6 +1,6 @@
 # Client+ National Campaign Plan (DRAFT)
 
-Status: internal draft for Ryan's sign. Nothing here has been sent or published. Owner: Client+ Product. Peers: Client+ Social (posts), Holdings Engineering (claim review). Questions for Ryan go through Holdings Engineering, and Cofounder brings them to him.
+Status: internal plan for Ryan's sign. Outreach email is live: Cofounder auto-sends 50 a day from ryanvukich@gmail.com under Ryan's standing permission of 10/22, confirmed 10/28. Nothing social has been published. Owner: Client+ Product. Peers: Client+ Social (posts), Holdings Engineering (claim review). Questions for Ryan go through Holdings Engineering, and Cofounder brings them to him.
 
 ## Goal
 Make Client+ a main funding path. The way there is to sign the first 5 founding clients, then run a national push through the networks that small human-services nonprofits and their funders already trust.
@@ -10,7 +10,9 @@ Make Client+ a main funding path. The way there is to sign the first 5 founding 
 2. **Foundations and funders that pay for that work**: community foundations, United Way chapters, capacity-building funders, and state and county contract funders. The pitch to them is that Client+ is a better use of their money than per-seat software licenses or a grant-funded data clerk. They pay once, the grantee owns its data and reports, and the system keeps working after the grant ends.
 
 ## Offer
-- **Founding price: $10,000 one-time deployment** for the first 5 clients, and $20,000 after that (Ryan, 10/22). In return the client gives feedback and sits in on monthly product calls. With their written OK, they may also be referenced (no names until they consent).
+- **Main call to action (Ryan, 10/28/2026): "Try it free for 30 days on a sandbox, no client data needed."** The trial runs on a sandbox with realistic sample data and logins for the organization's own staff. No real client data is needed or accepted during the trial. For foundations, the pitch is that their grantees can trial free for 30 days. **No Client+ trial sandbox exists yet (checked 10/28);** Holdings Engineering needs to build one (sample data only, no PHI) before trial requests can be fulfilled.
+- **After the trial, founding-seat pricing applies when they go live:** $10k for the first 5 founding clients, $20k after that.
+- **Founding price: $10,000 one-time deployment** for the first 5 founding clients, and $20,000 after that (Ryan, 10/22). In return the client gives feedback and sits in on monthly product calls. With their written OK, they may also be referenced (no names until they consent).
 - Everything else stays as listed: no per-seat fees, support sold in prepaid 10-hour blocks, optional modules, and hosting at cost.
 - **Future tense, by rule:** each customer *will* get its own AWS account. We *will* sign a business associate agreement (BAA) and a customer agreement before any real client data goes in. No second-customer stand-up is live today.
 
@@ -28,26 +30,26 @@ Make Client+ a main funding path. The way there is to sign the first 5 founding 
    - **Social:** LinkedIn and Facebook drafts from Client+ Social. Nothing goes up until Ryan has Business Manager and LinkedIn access and signs each post.
 
 ## Weekly foundation targeting (100/week)
-Draft process. Nothing is sent by a bot.
+Live process. Cofounder auto-sends 50 a day from ryanvukich@gmail.com under Ryan's standing permission of 10/22, confirmed 10/28.
 
 - **Sourcing (public sources only):** IRS 990-PF filings via ProPublica Nonprofit Explorer, Candid where publicly accessible, foundations' own websites and published grants lists, and state/regional grantmaker associations. Record the source URL for every entry.
 - **Fit criteria (score each 0-5, note why):** funds human services or case management; gives to small nonprofits; typical grant size fits a $10,000 deployment; geography matches where Client+ will serve (see decision 3); open to technology or capacity-building grants.
 - **Contact:** one named public contact per foundation, taken from their published grants or program contact. No scraped personal emails, no guessed addresses.
-- **Weekly cadence:** Monday source and score ~100 foundations into `campaign/foundation-tracker.csv`; Tuesday-Wednesday create drafts for qualified rows; Ryan reviews and sends through the week; Friday log replies and next steps.
-- **Sending:** outreach sends from ryanvukich@gmail.com. Drafts are created only in that account's Gmail Drafts, using Email 2 in CAMPAIGN-COPY-DRAFT.md. Ryan reviews and sends each one himself. No bot sends.
-- Gated like everything else: no outreach until PR #2 merges and Ryan approves the outreach.
+- **Weekly cadence:** Monday source and score ~100 foundations into `campaign/foundation-tracker.csv`; Tuesday-Wednesday write personalized emails for qualified rows; Cofounder auto-sends through the week within the 50-a-day limit; Friday log replies and next steps.
+- **Sending:** Cofounder auto-sends 50 a day from ryanvukich@gmail.com under Ryan's standing permission of 10/22, confirmed 10/28, using Email 1 (nonprofits) and Email 2 (foundations) in CAMPAIGN-COPY-DRAFT.md. Bounces, declines and do-not-contact entries are logged in the outreach CSVs.
+- Outreach approved by Ryan (standing permission of 10/22, confirmed 10/28). Emails still carry no link to the public page until PR #2 merges.
 
 ## Proof points
 - Origin: built inside a reentry and crisis-services nonprofit in rural Northern California.
-- First customer reference: **[PCIRC — needs Ryan approval]**. Placeholder only, with no name, quote, or testimonial.
-- Synthetic-data demo only. No screenshots of real records.
+- First customer reference: **[first deployment reference — needs Ryan approval]**. Placeholder only, with no name, quote, or testimonial.
+- Trial sandbox (to be built) holds sample data only. No screenshots of real records.
 
 ## Metrics (first 90 days after PR #2 merges)
 - founding-client conversations booked
 - founding clients signed (target: the first 5)
 - HIPAA pack complete (BAA template, security summary, customer agreement)
 - association or funder channels secured (listings, webinars, intros)
-- demo-to-proposal rate
+- trial requests, trials started, and trial-to-go-live rate
 
 ## Decisions Ryan has to make (routed through Holdings Engineering)
 1. Merge PR #2.
@@ -56,10 +58,11 @@ Draft process. Nothing is sent by a bot.
 4. Confirm he's ready to stand up a per-customer AWS account for each founding client.
 5. Choose counsel for the BAA and customer agreement templates.
 6. Get Business Manager and LinkedIn access for Client+ Social.
-7. Decide whether PCIRC can be named or quoted at all.
+7. Decide whether the reference client can be named or quoted at all.
 
 ---
 **Honesty block**
 - Tested: content checked by hand against the current page (master `4f0244b`) and PR #2. Charter name guard checked. No PHI.
 - CI: none (docs only).
-- NOT verified: no BAA or customer agreement exists, no per-customer AWS stand-up has been done, no contacts are verified, and nothing has been sent or published.
+- Updated 10/28/2026: added the free 30-day trial as the main call to action, and replaced the stale "no bot sends" lines with Cofounder's auto-send under Ryan's standing permission of 10/22, confirmed 10/28.
+- NOT verified: no Client+ trial sandbox exists yet, no BAA or customer agreement exists, and no per-customer AWS stand-up has been done. Nothing social has been published. Ryan signs.
