@@ -5,7 +5,7 @@ Account: ryanvukich@gmail.com. Window: 7:19:48–7:44:58 AM PT. Pace: >=58s betw
 ## Pre-checks
 - Gmail Sent since 11/6: last outreach send was 11/6 8:00 AM PT (11/6 run 1). 11/6 run 2 never happened; nothing sent 11/7–11/9 before this run. Today's count before run: 0.
 - Drafts titled 'Founding Client+ seats for your grantees': none. Drafts consumed: 0.
-- Known list rebuilt (box /workspace/cp1109/known.txt, 460 addrs + domain check + name/state check vs tracker).
+- Known list rebuilt (460 addrs + domain check + name/state check vs tracker). **Box-only/held:** the working dedupe file is not committed; it is derived entirely from the addresses already in `campaign/nonprofit-outreach.csv` and `campaign/foundation-outreach-week1.csv` on this branch, so any seat can rebuild it from those CSVs.
 - Older DSN: Family Crisis Center GA (info@thefamilycrisiscenter.org) went to PERMANENT failure 11/7 12:35 PM PT -> tracker marked do-not-retry (not counted in today's bounces).
 
 ## Sent: 24 (15 NP + 9 F)
