@@ -11,8 +11,8 @@ Make Client+ a main funding path. The way there is to sign the first 5 founding 
 
 ## Offer
 - **Main call to action (Ryan, 10/28/2026): "Try it free for 30 days on a sandbox, no client data needed."** The trial runs on a sandbox with realistic sample data and logins for the organization's own staff. No real client data is needed or accepted during the trial. For foundations, the pitch is that their grantees can trial free for 30 days. **No Client+ trial sandbox exists yet (checked 10/28);** Holdings Engineering needs to build one (sample data only, no PHI) before trial requests can be fulfilled.
-- **After the trial, founding-seat pricing applies when they go live:** $10k for the first 5 founding clients, $20k after that.
-- **Founding price: $10,000 one-time deployment** for the first 5 founding clients, and $20,000 after that (Ryan, 10/22). In return the client gives feedback and sits in on monthly product calls. With their written OK, they may also be referenced (no names until they consent).
+- **After the trial, pricing when they go live:** $10k per organization, no cap and no $20k tier (Ryan, 11/13, replaces the 10/22 tiered pricing).
+- **Price: $10,000 one-time deployment** per organization, with no founding-client cap (Ryan, 11/13; was $10k for the first 5 then $20k, Ryan 10/22). In return the client gives feedback and sits in on monthly product calls. With their written OK, they may also be referenced (no names until they consent).
 - Everything else stays as listed: no per-seat fees, support sold in prepaid 10-hour blocks, optional modules, and hosting at cost.
 - **Future tense, by rule:** each customer *will* get its own AWS account. We *will* sign a business associate agreement (BAA) and a customer agreement before any real client data goes in. No second-customer stand-up is live today.
 
@@ -53,7 +53,7 @@ Live process. Cofounder auto-sends 50 a day from ryanvukich@gmail.com under Ryan
 
 ## Decisions Ryan has to make (routed through Holdings Engineering)
 1. Merge PR #2.
-2. ~~Approve founding pricing~~ DECIDED (Ryan 10/22): $10,000 for the first 5 clients, $20,000 after that.
+2. ~~Approve founding pricing~~ DECIDED (Ryan 11/13): $10,000 per organization, no cap. (Superseded 10/22 tiers: $10k first 5, $20k after.)
 3. Decide whether Client+ will serve outside Northern California. The page still says North State.
 4. Confirm he's ready to stand up a per-customer AWS account for each founding client.
 5. Choose counsel for the BAA and customer agreement templates.

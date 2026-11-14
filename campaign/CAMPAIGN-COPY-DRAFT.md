@@ -10,12 +10,12 @@ Status: settled outreach copy for Email 1 (nonprofit) and Email 2 (foundation), 
 
 - The trial runs on a sandbox loaded with realistic sample data, with logins for the organization's own staff.
 - No real client data is needed or accepted during the trial. If a prospect offers real records, decline them.
-- After the trial, founding-seat pricing applies when they go live: $10k for the first 5 founding clients, $20k after that.
+- After the trial, pricing when they go live is $10k per organization (no founding-client cap, no higher tier).
 - For foundations, the angle is that their grantees can trial free for 30 days.
 - **Not provisionable yet (checked 10/28):** no Client+ trial sandbox exists today. Log every trial request and route it to Holdings Engineering. Don't promise a start date or send logins until the sandbox is built.
 
 ## Founding-client offer (short)
-Start with a free 30-day trial on a sandbox with realistic sample data and logins for your own staff, no client data needed. When you go live, founding-seat pricing applies: **$10k for the first 5 founding clients, $20k after that**, with no per-seat fee. That covers setup for your programs, migrating your existing records, two live training sessions, and 30 days of support. Before any real client data goes in, we will sign a business associate agreement (BAA) with you, and your deployment will run in your own AWS account.
+Start with a free 30-day trial on a sandbox with realistic sample data and logins for your own staff, no client data needed. When you go live, pricing is **$10k per organization**, with no per-seat fee. That covers setup for your programs, migrating your existing records, two live training sessions, and 30 days of support. Before any real client data goes in, we will sign a business associate agreement (BAA) with you, and your deployment will run in your own AWS account.
 
 ## Rules for Email 1 and Email 2 (every send)
 - First line is personalized to the organization (from its own public site or materials).
@@ -39,7 +39,7 @@ I run Client+, case and client management software built inside a reentry and cr
 
 You can try it free for 30 days on a sandbox, no client data needed. Your staff get their own logins to a sandbox loaded with realistic sample data, and no real client data goes in during the trial.
 
-If you go live after the trial, founding-seat pricing applies: $10k for the first 5 founding clients, $20k after that, with no per-seat fees. Before any real client data goes in, we will sign a business associate agreement (BAA) with you, and your system will run in your organization's own AWS account.
+If you go live after the trial, pricing is $10k per organization, with no per-seat fees. Before any real client data goes in, we will sign a business associate agreement (BAA) with you, and your system will run in your organization's own AWS account.
 
 Want to try it free for 30 days? Reply and I'll set up sandbox logins for your team.
 
@@ -64,7 +64,7 @@ Your grantees can try Client+ free for 30 days on a sandbox, no client data need
 
 On privacy: development uses synthetic data only, and the AI features are designed never to receive client data. We will sign a business associate agreement (BAA) before any real client data goes in, and each organization will run in its own AWS account.
 
-If an agency goes live after its trial, founding-seat pricing applies: $10k for the first 5 founding clients, $20k after that, with no per-seat fees. Funding a founding seat for one of your grantees could be a better use of grant dollars than recurring license fees or a grant-funded data clerk: the agency owns its data and keeps the system after the grant ends.
+If an agency goes live after its trial, pricing is $10k per organization, with no per-seat fees. Funding a founding seat for one of your grantees could be a better use of grant dollars than recurring license fees or a grant-funded data clerk: the agency owns its data and keeps the system after the grant ends.
 
 Would any of your grantees want to try it free for 30 days? I'm glad to send a short note you can pass along to them.
 
@@ -108,7 +108,7 @@ Rules for every post:
 ### LinkedIn (company page, once it exists)
 
 L1. Launch / founding offer
-Small human-services nonprofits run real casework on spreadsheets and shared drives. Client+ is case and client management built for teams of 3 to 30: client records, case notes, kiosk check-in, and grant tracking, with row-level security and MFA. The founding price is $10,000 for the first 5 organizations, then $20,000. We will sign a business associate agreement before any real client data enters the system. [LINK: after PR #2 merges]
+Small human-services nonprofits run real casework on spreadsheets and shared drives. Client+ is case and client management built for teams of 3 to 30: client records, case notes, kiosk check-in, and grant tracking, with row-level security and MFA. The price is $10,000 per organization. We will sign a business associate agreement before any real client data enters the system. [LINK: after PR #2 merges]
 
 L2. Funder angle
 Foundations fund outcomes, then wait months for reports stitched together from spreadsheets. When a grantee tracks clients and grant activity in one secure system, reporting gets faster and more reliable. Client+ is a case management system that small grantees can actually afford. If you fund case-management programs, we'd like to talk about founding seats for your grantees.
