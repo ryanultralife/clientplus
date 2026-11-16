@@ -37,7 +37,7 @@ Why weight by outreach volume: people at orgs that got an email may see the ad a
 - **Narrowing (if audience is too broad):** require one nonprofit interest AND one job-title or role signal.
 - **Advantage+ audience:** reasonable to test against detailed targeting in the US-wide ad set only, so the priority ad set stays readable.
 - **Placements:** Facebook Feed, Instagram Feed, Facebook Marketplace off by default.
-- **Policy note:** Creative B mentions HIPAA. Meta may review health-related wording more strictly. Not a special ad category (not housing, employment, credit or politics).
+- **Policy note:** Creative B no longer uses the word HIPAA in ad copy; it leads with row-level security and MFA. Meta may still review health-related wording more strictly because the ads discuss sensitive client information. Not a special ad category (not housing, employment, credit or politics).
 
 ## LinkedIn targeting options
 

@@ -9,7 +9,7 @@
 - Pricing: a flat $10,000 per organization, no cap. No tiers, no limited-seat count.
 - Audience: nonprofit teams of 3 to 30 staff.
 - Features named are only the ones live in the synthetic-data demo: client records and case notes, kiosk check-in, grant tracking, row-level security, MFA.
-- Security wording: "designed with HIPAA safeguards" only. Do not reuse the "Built for HIPAA" line from the October graphic. No compliance-certification claim. The BAA and per-customer AWS hosting are future tense ("will").
+- Security wording: lead with the actual controls (row-level security and MFA). Do not use "HIPAA," "designed with HIPAA safeguards," or the "Built for HIPAA" line from the October graphic in post or ad copy. No compliance-certification claim. The BAA and per-customer AWS hosting are future tense ("will").
 - Trial: only "Ask us about a free 30-day trial." No instant access, no self-serve signup.
 - No customer names, counts, quotes or testimonials. No PHI. No UltraLife Trades content. No source-suite name and no Northern California town names.
 - Links: use `[LINK: marketing page after PR #2 merges]` until PR #2 merges. Do not use the old github.io page URL. Contact in CTAs: (775) 722-7725 (call or WhatsApp), or "Message the Page".
@@ -55,7 +55,7 @@
 - **Platform:** LinkedIn first, Facebook Page second
 - **Copy:**
   > Not everyone on staff should see every file. Client+ uses row-level security in the database, so people see only the records they're allowed to see, enforced by the data layer, not just hidden on a screen.
-  > Client+ is designed with HIPAA safeguards. When you sign on, we will sign a business associate agreement with you.
+  > Row-level security and MFA for every login. We will sign a business associate agreement before any real client data goes in.
 - **Image:** Simple diagram: three staff icons, each with a lock, each seeing a different subset of records.
 - **Status:** DRAFT, awaiting Ryan sign (security wording needs Holdings Engineering guard review)
 
@@ -63,7 +63,7 @@
 - **Platform:** Both
 - **Copy:**
   > A stolen password shouldn't open your client files. Every Client+ login supports multi-factor authentication. Turn it on for your whole team in one setting.
-  > Small nonprofits are targets too. Ask us how Client+ is designed with HIPAA safeguards.
+  > Small nonprofits are targets too. Row-level security and MFA for every login. We will sign a business associate agreement before any real client data goes in.
 - **Image:** Phone showing a 6-digit code prompt next to a laptop login screen. Illustrative.
 - **Status:** DRAFT, awaiting Ryan sign
 
