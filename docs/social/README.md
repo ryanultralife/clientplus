@@ -25,6 +25,7 @@
 - Drafts only; nothing published; no PHI; no UltraLife Trades content.
 - Public repo: write "charter name guard" — never the excluded personal names.
 - Team size language: 3 to 30 staff.
+- Pricing (Ryan 11/13): $10,000 one-time per organization, with no cap and no $20,000 tier. "Founding customer" may be used only if it does not imply a cap.
 - Questions for Ryan go to Holdings Engineering (never Ryan directly). Cofounder handles Gmail drafts.
 - Never cite box: or local-only paths in repo notes.
 

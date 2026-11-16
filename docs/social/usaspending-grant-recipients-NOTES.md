@@ -1,14 +1,14 @@
 # USAspending grant-recipient list — NOTES + starter sample
 
 **Status:** Draft methodology + small public starter sample. This is a **lead list**, not a send list. Any email sends go through the existing outreach lane and its bounce stop.  
-**Updated:** 2026-11-05 PT · Client+ Social  
+**Updated:** 2026-11-16 PT · Client+ Social  
 **API used:** `POST https://api.usaspending.gov/api/v2/search/spending_by_award/` (public). Sample pulled 2026-11-05 PT.
 
 ## Fit criteria (Client+)
 
 - Human-services / case-management adjacent work (homelessness, reentry, crisis, family support, behavioral health, youth).
 - Target org size **3 to 30 staff** — **USAspending does not publish staff counts.** Size must be verified later from public 990 / org sites (e.g. ProPublica Nonprofit Explorer) before outreach.
-- Prefer assistance awards in a usable founding-seat range; sample below used award amounts roughly $25k–$500k as a first cut, not a pricing claim.
+- Prefer assistance awards in a range that fits small organizations; sample below used award amounts roughly $25k–$500k as a first cut, not a Client+ pricing claim.
 - Public org names and awarding agencies only. No PHI, no personal emails scraped here.
 
 ## Method

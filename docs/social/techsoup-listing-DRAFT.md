@@ -2,7 +2,7 @@
 
 **Status:** Draft only. Creating or submitting a TechSoup partner / donor listing is public and needs an account in Ryan's name. **Do not submit.** Holdings Engineering files the Ryan ask once this copy is on `social-drafts`.  
 **Sources (public):** [TechSoup About Our Donor Partners](https://www.techsoup.org/about-us/about-our-donor-partners) (partner inquiry path); TechSoup qualification / catalog docs for how nonprofits find offers. Live partner form pages may be bot-blocked; Ryan or Holdings should confirm the current "Become a Donor Partner" / partnership-inquiry URL before submitting.  
-**Updated:** 2026-11-05 PT · Client+ Social
+**Updated:** 2026-11-16 PT · Client+ Social (pricing aligned to Ryan 11/13: flat $10,000 per organization, no cap)
 
 ## What this is for
 
@@ -19,9 +19,9 @@ TechSoup is how many small nonprofits discover donated or discounted technology.
 | Short description | Client+ helps small human-services nonprofits keep client records, case notes, kiosk check-in, and grant tracking in one place so existing staff can run the work without hiring a data clerk. Every staff member signs in with multi-factor authentication, and row-level security limits each person to the records their role allows. Board members can get a login that shows grants and spending with no access to client data. Built inside a reentry and crisis-services nonprofit in rural Northern California. |
 | Who it is for | 501(c)(3) human-services nonprofits with roughly 3 to 30 staff that run casework today on spreadsheets, shared drives, or tools that are too expensive. Typical programs: reentry, crisis, homelessness, family support, behavioral health support, youth. |
 | What is live today (honest) | The case/client suite runs on synthetic demo data: persons, notes, kiosk, grants, RLS, MFA. Do **not** claim a second-customer stand-up, remote org-health, or WhatsApp without tokens. |
-| Pricing note (for Ryan to confirm before submit) | Founding seat: $10,000 one-time for the first 5 organizations, then $20,000. No per-seat fees. Hosting is on the customer's own AWS bill. Exact TechSoup offer type (donation vs discount vs listing-only) is a Ryan call. |
+| Pricing note (for Ryan to confirm before submit) | $10,000 one-time per organization, with no cap on the number of organizations. No per-seat fees. Hosting will be on the customer's own AWS bill. Exact TechSoup offer type (donation vs discount vs listing-only) is a Ryan call. |
 | Agreements (future tense) | We will sign a business associate agreement (BAA) before any real client data goes in. Each customer will run in its own AWS account. |
-| Call to action in the listing | **Do not offer a trial or demo in this listing until launch-plan row 8 lands** (free tier + demo 503 fix / hq #51). Until then, CTA is: contact Client+ for founding-seat information. |
+| Call to action in the listing | **Do not offer a trial or demo in this listing until launch-plan row 8 lands** (free tier + demo 503 fix / hq #51). Until then, CTA is: contact Client+ for founding-customer information. |
 | Links | **No link to the marketing page until clientplus PR #2 is merged.** Until then leave the URL field blank or use a placeholder Ryan replaces at submit time. |
 | Contact | Ryan Vukich · Client+ · (775) 722-7725 · email Ryan chooses for the TechSoup account |
 
