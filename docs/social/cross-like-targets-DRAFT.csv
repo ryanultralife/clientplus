@@ -1,0 +1,677 @@
+org_name,type,state,date_emailed,facebook_url,linkedin_url,notes
+Arkansas Community Foundation,foundation,AR,2026-10-22,https://www.facebook.com/ArkansasCommunityFoundation,https://www.linkedin.com/company/arkansas-community-foundation,links taken from org website (arcf.org)
+Aspen Community Foundation,foundation,CO,2026-10-22,https://www.facebook.com/aspencommunityfoundation,https://www.linkedin.com/company/aspen-community-foundation,links taken from org website (aspencommunityfoundation.org)
+Caring for Colorado Foundation,foundation,CO,2026-10-22,https://www.facebook.com/caringforcoloradofoundation,https://www.linkedin.com/company/caring-for-colorado-foundation,links taken from org website (caringforcolorado.org)
+Community Foundation of Greater Dubuque,foundation,IA,2026-10-22,https://www.facebook.com/DBQFoundation,https://www.linkedin.com/company/dbqfoundation,links taken from org website (dbqfoundation.org)
+Community Foundation of Jackson Hole,foundation,WY,2026-10-22,https://www.facebook.com/cfjacksonhole,,links taken from org website (cfjacksonhole.org)
+Community Foundation of Western North Carolina,foundation,NC,2026-10-22,https://www.facebook.com/CFofWNC,,links taken from org website (cfwnc.org)
+Grand Rapids Community Foundation,foundation,MI,2026-10-22,https://www.facebook.com/GRCommFound,https://www.linkedin.com/company/grand-rapids-community-foundation,links taken from org website (grfoundation.org)
+Idaho Community Foundation,foundation,ID,2026-10-22,https://www.facebook.com/IdahoCF,https://www.linkedin.com/company/idaho-community-foundation,links taken from org website (idahocf.org)
+Juneau Community Foundation,foundation,AK,2026-10-22,,,no FB/LinkedIn link on org homepage (juneaucf.org); left blank
+Methodist Healthcare Ministries of South Texas,foundation,TX,2026-10-22,https://www.facebook.com/mhmstx,https://www.linkedin.com/company/methodist-healthcare-ministries,links taken from org website (mhm.org)
+Rapides Foundation,foundation,LA,2026-10-22,https://www.facebook.com/therapidesfoundation,,links taken from org website (rapidesfoundation.org)
+Taos Community Foundation,foundation,NM,2026-10-22,https://www.facebook.com/taoscommunityfoundation,https://www.linkedin.com/company/taoscommunityfoundation,links taken from org website (taoscf.org)
+Tulsa Community Foundation,foundation,OK,2026-10-22,https://www.facebook.com/TulsaCF,https://www.linkedin.com/company/tulsa-community-foundation,links taken from org website (tulsacf.org)
+Whitefish Community Foundation,foundation,MT,2026-10-22,https://www.facebook.com/WhitefishCommunity,https://www.linkedin.com/company/whitefish-community-foundation,links taken from org website (whitefishcommunityfoundation.org)
+Blue Mountain Community Foundation,foundation,WA,2026-10-23,,,"org website did not load; links blank, not guessed"
+Community Foundation for Greater Atlanta,foundation,GA,2026-10-23,https://www.facebook.com/cfgreateratlanta,https://www.linkedin.com/company/56965,links taken from org website (cfgreateratlanta.org)
+Community Foundation of South Puget Sound,foundation,WA,2026-10-23,https://www.facebook.com/tcfsps,https://www.linkedin.com/company/the-community-foundation-of-south-puget-sound,links taken from org website (thecommunityfoundation.com)
+El Dorado Community Foundation,foundation,CA,2026-10-23,https://www.facebook.com/eldoradocommunityfoundation,,links taken from org website (eldoradocf.org)
+Heinz Endowments,foundation,PA,2026-10-23,https://www.facebook.com/TheHeinzEndowments,https://www.linkedin.com/company/the-heinz-endowments,links taken from org website (heinz.org)
+Lesher Foundation,foundation,CA,2026-10-23,,,no FB/LinkedIn link on org homepage (lesherfoundation.org); left blank
+Long Beach Community Foundation,foundation,CA,2026-10-23,https://www.facebook.com/LBCommunityFdn,https://www.linkedin.com/company/long-beach-community-foundation,links taken from org website (longbeachcf.org)
+Mat-Su Health Foundation,foundation,AK,2026-10-23,https://www.facebook.com/healthymatsu,https://www.linkedin.com/company/healthymatsu,links taken from org website (healthymatsu.org)
+Pasadena Community Foundation,foundation,CA,2026-10-23,https://www.facebook.com/pasadenacf,https://www.linkedin.com/company/pasadena-community-foundation,links taken from org website (pasadenacf.org)
+Paso del Norte Health Foundation,foundation,TX,2026-10-23,https://www.facebook.com/PdNHFoundation,https://www.linkedin.com/company/pdnhfoundation,links taken from org website (pdnhf.org)
+Pikes Peak Community Foundation,foundation,CO,2026-10-23,https://www.facebook.com/pikespeakcommunityfoundation,,links taken from org website (ppcf.org)
+Rhode Island Foundation,foundation,RI,2026-10-23,https://www.facebook.com/rhodeislandfoundation,https://www.linkedin.com/company/the-rhode-island-foundation,links taken from org website (rifoundation.org)
+S. Mark Taper Foundation,foundation,CA,2026-10-23,,,no FB/LinkedIn link on org homepage (smtfoundation.org); left blank
+San Juan Island Community Foundation,foundation,WA,2026-10-23,,,no FB/LinkedIn link on org homepage (sjicf.org); left blank
+St. David's Foundation,foundation,TX,2026-10-23,https://www.facebook.com/stdavidsfoundation,https://www.linkedin.com/company/st.-david,links taken from org website (stdavidsfoundation.org)
+Tacoma Community Foundation,foundation,WA,2026-10-23,https://www.facebook.com/GreaterTacoma,https://www.linkedin.com/company/the-greater-tacoma-community-foundation,links taken from org website (gtcf.org)
+Vermont Community Foundation,foundation,VT,2026-10-23,https://www.facebook.com/vermontcf,https://www.linkedin.com/company/the-vermont-community-foundation,links taken from org website (vermontcf.org)
+Western Colorado Community Foundation,foundation,CO,2026-10-23,https://www.facebook.com/westerncoloradocommunityfoundation,,links taken from org website (wc-cf.org)
+Crossroads for Women,nonprofit,NM,2026-10-23,https://www.facebook.com/crossroadsabq,,links taken from org website (crossroadsabq.org)
+Family Crisis Center (Rexburg),nonprofit,ID,2026-10-23,,,"org website did not load; links blank, not guessed"
+Family Promise of Gallatin Valley,nonprofit,MT,2026-10-23,https://www.facebook.com/FamilyPromiseGV,,links taken from org website (familypromisegv.org)
+Good Samaritan Mission,nonprofit,WY,2026-10-23,,,no FB/LinkedIn link on org homepage (gsmjh.org); left blank
+Red Lodge Transition Services,nonprofit,OR,2026-10-23,,,"org website did not load; links blank, not guessed"
+SriPonya Collective,nonprofit,OR,2026-10-23,https://www.facebook.com/sriponyacollective,https://www.linkedin.com/company/79163755,links taken from org website (sriponya.org)
+Central Valley Community Foundation,foundation,CA,2026-10-26,,,no FB/LinkedIn link on org homepage (centralvalleycf.org); left blank
+Community Foundation of Mendocino County,foundation,CA,2026-10-26,https://www.facebook.com/CommunityFoundationMendocino,,links taken from org website (communityfound.org)
+Community Foundation of Northern Nevada,foundation,NV,2026-10-26,https://www.facebook.com/nevadafund,,links taken from org website (nevadafund.org)
+Community Foundation of the North State,foundation,CA,2026-10-26,https://www.facebook.com/CFNorthstate,,links taken from org website (cfnorthstate.org); site links more than one FB page; confirm before following
+Community Foundation Santa Cruz County,foundation,CA,2026-10-26,https://www.facebook.com/CFSantaCruzCounty,https://www.linkedin.com/company/community-foundation-santa-cruz-county,links taken from org website (cfscc.org)
+Engelstad Foundation,foundation,NV,2026-10-26,,,no FB/LinkedIn link on org homepage (engelstadfoundation.org); left blank
+Humboldt Area Foundation,foundation,CA,2026-10-26,,https://www.linkedin.com/company/humboldt-area-foundation,links taken from org website (hafoundation.org)
+Kern Community Foundation,foundation,CA,2026-10-26,,,"org website did not load; links blank, not guessed"
+Napa Valley Community Foundation,foundation,CA,2026-10-26,https://www.facebook.com/napavalleycommunityfoundation,,links taken from org website (napavalleycf.org)
+North Valley Community Foundation,foundation,CA,2026-10-26,https://www.facebook.com/northvalleycf,https://www.linkedin.com/company/119994,links taken from org website (nvcf.org); site links more than one LinkedIn page; confirm
+Orange County Community Foundation,foundation,CA,2026-10-26,https://www.facebook.com/OCCommunityFdn,https://www.linkedin.com/company/orange-county-community-foundation,links taken from org website (oc-cf.org)
+Placer Community Foundation,foundation,CA,2026-10-26,https://www.facebook.com/placercommunityfoundation,,links taken from org website (placercf.org)
+Sacramento Region Community Foundation,foundation,CA,2026-10-26,https://www.facebook.com/sacregcf,https://www.linkedin.com/company/1184838,links taken from org website (sacregcf.org)
+Santa Barbara Foundation,foundation,CA,2026-10-26,https://www.facebook.com/sbfoundation,https://www.linkedin.com/company/santa-barbara-foundation,links taken from org website (sbfoundation.org)
+Sonoma County Community Foundation,foundation,CA,2026-10-26,https://www.facebook.com/sonomacf,https://www.linkedin.com/company/community-foundation-sonoma-county,links taken from org website (sonomacf.org)
+Stanislaus Community Foundation,foundation,CA,2026-10-26,https://www.facebook.com/StanislausFoundation,https://www.linkedin.com/company/stanislaus-community-foundation,links taken from org website (stanislauscf.org)
+Tahoe Truckee Community Foundation,foundation,CA,2026-10-26,,https://www.linkedin.com/company/tahoe-truckee-community-foundation,links taken from org website (ttcf.net)
+The San Diego Foundation,foundation,CA,2026-10-26,https://www.facebook.com/SanDiegoFoundation,https://www.linkedin.com/company/san-diego-foundation,links taken from org website (sdfoundation.org)
+Ventura County Community Foundation,foundation,CA,2026-10-26,,,no FB/LinkedIn link on org homepage (vccf.org); left blank
+A Family for Every Child (AFFEC),nonprofit,OR,2026-10-26,,,"org website did not load; links blank, not guessed"
+Bright Futures,nonprofit,CO,2026-10-26,https://www.facebook.com/brightfuturesforchildren,,links taken from org website (brightfuturesforchildren.org)
+Cornerstone Urban Alliance,nonprofit,MI,2026-10-26,,,no FB/LinkedIn link on org homepage (cornerstoneurbanalliance.com); left blank
+Desert O.A.S.I.S.,nonprofit,NM,2026-10-26,https://www.facebook.com/DesertOasis88030,,links taken from org website (desertoasisnm.org)
+Elevate Youth Services,nonprofit,VT,2026-10-26,https://www.facebook.com/ElevateYouthVT,,links taken from org website (elevateyouthvt.org)
+Elko F.I.S.H.,nonprofit,NV,2026-10-26,https://www.facebook.com/FISH.Elko,,links taken from org website (fishelko.org)
+EMBARC,nonprofit,IA,2026-10-26,https://www.facebook.com/EMBARC,,links taken from org website (embarciowa.org)
+"Family Crisis Center, Inc. (Great Bend)",nonprofit,KS,2026-10-26,,,no FB/LinkedIn link on org homepage (familycrisiskansas.com); left blank
+Freshly Renewed Transitional,nonprofit,AR,2026-10-26,,,no FB/LinkedIn link on org homepage (freshlyrenewedtransitional.org); left blank
+From Darkness to Light,nonprofit,KY,2026-10-26,,,"org website did not load; links blank, not guessed"
+Game Changers,nonprofit,GA,2026-10-26,,,"org website did not load; links blank, not guessed"
+Homeless Services of Aroostook,nonprofit,ME,2026-10-26,,,no FB/LinkedIn link on org homepage (aroostookhomeless.org); left blank
+Journey to New Life,nonprofit,MO,2026-10-26,,,no FB/LinkedIn link on org homepage (jtnl.org); left blank
+LINC Inc,nonprofit,NC,2026-10-26,https://www.facebook.com/lincincnc,https://www.linkedin.com/company/lincnc,links taken from org website (lincnc.org)
+LITE Recovery Hub,nonprofit,IN,2026-10-26,https://www.facebook.com/LITERecoveryHub,,links taken from org website (literecoveryhub.org)
+Magdalene House OKC,nonprofit,OK,2026-10-26,https://www.facebook.com/magdaleneokc,,links taken from org website (magdaleneokc.org)
+Mountain Resource Center,nonprofit,CO,2026-10-26,,,no FB/LinkedIn link on org homepage (mrcco.org); left blank
+Navigating Recovery of the Lakes Region,nonprofit,NH,2026-10-26,https://www.facebook.com/navigatingrecovery,,links taken from org website (navigatingrecovery.org)
+Outreach Reentry Ministry,nonprofit,AL,2026-10-26,,,no FB/LinkedIn link on org homepage (outreachreentryministry.org); left blank
+Returning Her Home,nonprofit,GA,2026-10-26,,,no FB/LinkedIn link on org homepage (returningherhome.org); left blank
+Room One,nonprofit,WA,2026-10-26,https://www.facebook.com/RoomOneMethowValley,,links taken from org website (roomone.org)
+Safe Harbor,nonprofit,SD,2026-10-26,https://www.facebook.com/AberdeenSafeHarbor,,links taken from org website (safeharborsd.org)
+Safehope,nonprofit,KS,2026-10-26,https://www.facebook.com/SafehopeDVSA,,links taken from org website (safehope.net)
+Tennessee Prison Outreach Ministry,nonprofit,TN,2026-10-26,,,"org website did not load; links blank, not guessed"
+The Bridge From Violence,nonprofit,NE,2026-10-26,https://www.facebook.com/TheBridgeFremontNE,https://www.linkedin.com/company/the-bridge-from-violence,links taken from org website (bridgefromviolence.com)
+Together Place,nonprofit,ME,2026-10-26,https://www.facebook.com/togetherplace,,links taken from org website (togetherplace.org)
+Waypost,nonprofit,SD,2026-10-26,https://www.facebook.com/waypostsd,,links taken from org website (waypostsd.org); site links more than one FB page; confirm before following
+Alaska Community Foundation,foundation,AK,2026-10-27,https://www.facebook.com/AlaskaCF,https://www.linkedin.com/company/the-alaska-community-foundation,links taken from org website (alaskacf.org)
+Community Foundation for Southern Arizona,foundation,AZ,2026-10-27,https://www.facebook.com/CFSAZ,https://www.linkedin.com/company/cfsaz,links taken from org website (cfsaz.org)
+Community Foundation of North Central Washington,foundation,WA,2026-10-27,https://www.facebook.com/cfncw,,links taken from org website (cfncw.org)
+Community Foundation of Utah,foundation,UT,2026-10-27,,,no FB/LinkedIn link on org homepage (utahcf.org); left blank
+El Pomar Foundation,foundation,CO,2026-10-27,https://www.facebook.com/elpomarfoundation,https://www.linkedin.com/company/el-pomar-foundation,links taken from org website (elpomar.org)
+Gates Family Foundation,foundation,CO,2026-10-27,https://www.facebook.com/gatesfamilyfoundation,https://www.linkedin.com/company/gates-family-foundation,links taken from org website (gatesfamilyfoundation.org)
+M.J. Murdock Charitable Trust,foundation,WA,2026-10-27,https://www.facebook.com/murdockcharitabletrust,https://www.linkedin.com/company/3941712,links taken from org website (murdocktrust.org); site links more than one LinkedIn page; confirm
+Montana Community Foundation,foundation,MT,2026-10-27,https://www.facebook.com/MontanaCommunityFoundation,https://www.linkedin.com/company/montana-community-foundation,links taken from org website (mtcf.org)
+New Mexico Foundation,foundation,NM,2026-10-27,,,no FB/LinkedIn link on org homepage (newmexicofoundation.org); left blank
+Oregon Community Foundation,foundation,OR,2026-10-27,https://www.facebook.com/TheOregonCF,https://www.linkedin.com/company/the-oregon-community-foundation,links taken from org website (oregoncf.org)
+Rose Community Foundation,foundation,CO,2026-10-27,https://www.facebook.com/rosecommunityfoundation,https://www.linkedin.com/company/rosecommunityfoundation,links taken from org website (rcfdenver.org)
+Santa Fe Community Foundation,foundation,NM,2026-10-27,https://www.facebook.com/santafecf,https://www.linkedin.com/company/santa-fe-community-foundation,links taken from org website (santafecf.org)
+Silicon Valley Community Foundation,foundation,CA,2026-10-27,https://www.facebook.com/siliconvalleycf,https://www.linkedin.com/company/silicon-valley-community-foundation,links taken from org website (siliconvalleycf.org)
+The Collins Foundation,foundation,OR,2026-10-27,,https://www.linkedin.com/company/collins-foundation,links taken from org website (collinsfoundation.org)
+The Denver Foundation,foundation,CO,2026-10-27,https://www.facebook.com/TDFcommunity,https://www.linkedin.com/company/tdfcommunity,links taken from org website (denverfoundation.org)
+Whatcom Community Foundation,foundation,WA,2026-10-27,https://www.facebook.com/WhatcomCF,https://www.linkedin.com/company/whatcom-community-foundation,links taken from org website (whatcomcf.org)
+Wyoming Community Foundation,foundation,WY,2026-10-27,https://www.facebook.com/wyocommunity,https://www.linkedin.com/company/wyoming-community-foundation,links taken from org website (wycf.org)
+Alexander Reentry Navigation,nonprofit,NC,2026-10-27,,,no FB/LinkedIn link on org homepage (alexanderreentrynavigation.com); left blank
+Angela House,nonprofit,TX,2026-10-27,https://www.facebook.com/angelahouse.org,,links taken from org website (angelahouse.org)
+Arouet Foundation,nonprofit,AZ,2026-10-27,,,no FB/LinkedIn link on org homepage (arouetempowers.org); left blank
+AWARE Inc.,nonprofit,PA,2026-10-27,,,no FB/LinkedIn link on org homepage (merceraware.org); left blank
+Brothers 2 Brothers ADV,nonprofit,OK,2026-10-27,,,no FB/LinkedIn link on org homepage (b2badv.org); left blank
+Canyon Creek Services,nonprofit,UT,2026-10-27,,,no FB/LinkedIn link on org homepage (canyoncreekservices.org); left blank
+Empower 180,nonprofit,MT,2026-10-27,,,no FB/LinkedIn link on org homepage (empower180reentry.org); left blank
+Family Promise of the Palouse,nonprofit,WA,2026-10-27,https://www.facebook.com/455876521131712,,links taken from org website (familypromisepalouse.org); site links more than one FB page; confirm before following
+Family Resource Center of Central Oregon,nonprofit,OR,2026-10-27,https://www.facebook.com/105168879541476,,links taken from org website (frconline.org)
+Good Company Inc.,nonprofit,LA,2026-10-27,,,no FB/LinkedIn link on org homepage (goodcompanyinc.org); left blank
+Heaven Sent 2nd Chance Transitional Community,nonprofit,GA,2026-10-27,https://www.facebook.com/Heavensentsecondchance,https://www.linkedin.com/company/hs2ct-org,links taken from org website (hs2ct.org)
+Ignite Idaho,nonprofit,ID,2026-10-27,,,no FB/LinkedIn link on org homepage (igniteidahofrc.org); left blank
+Inside Out Peer Services,nonprofit,MT,2026-10-27,,,no FB/LinkedIn link on org homepage (insideoutpeerservices.org); left blank; warm lead; hold follow and like until Ryan OKs
+Jefferson Parole Project,nonprofit,LA,2026-10-27,,,no FB/LinkedIn link on org homepage (jeffersonparoleproject.com); left blank
+JUMPSTART SC,nonprofit,SC,2026-10-27,,,no FB/LinkedIn link on org homepage (jumpstartvision.org); left blank
+Lady Veterans Connect,nonprofit,KY,2026-10-27,https://www.facebook.com/ladyveteransconnect,https://www.linkedin.com/company/ladyveteransconnect,links taken from org website (ladyveteransconnect.org)
+Lean On Me,nonprofit,ID,2026-10-27,,,no FB/LinkedIn link on org homepage (leanonmeinc.com); left blank
+Minnesota Recovery Connection,nonprofit,MN,2026-10-27,https://www.facebook.com/MinnesotaRecoveryConnection,https://www.linkedin.com/company/mnrecovery,links taken from org website (minnesotarecovery.org)
+Peer Support Alliance of North Dakota,nonprofit,ND,2026-10-27,https://www.facebook.com/peersupport.nd,https://www.linkedin.com/company/peer-support-alliance-of-north-dakota,links taken from org website (peersupportnd.com)
+RAHAMA,nonprofit,NY,2026-10-27,https://www.facebook.com/rahamanonprofit,,links taken from org website (rahama.org)
+Re-Entry Solutions,nonprofit,LA,2026-10-27,,,no FB/LinkedIn link on org homepage (reentrysolutions.org); left blank
+Reconnect 180,nonprofit,NV,2026-10-27,,,no FB/LinkedIn link on org homepage (reconnect180.org); left blank
+Recovery Community Network,nonprofit,MN,2026-10-27,,,no FB/LinkedIn link on org homepage (recoverycommunitynetwork.com); left blank
+Renew Inc,nonprofit,CO,2026-10-27,,,no FB/LinkedIn link on org homepage (renew-inc.org); left blank
+Restore to Life,nonprofit,AZ,2026-10-27,,,no FB/LinkedIn link on org homepage (restoretolifeaz.org); left blank
+Sarah's Friends,nonprofit,OH,2026-10-27,https://www.facebook.com/SarahsFriendsofWilliamsCounty,https://www.linkedin.com/company/sarahsfriendsofwilliamscounty,links taken from org website (sarahsfriends.org); site links more than one FB page; confirm before following
+Upper Valley Haven,nonprofit,VT,2026-10-27,https://www.facebook.com/Upper-Valley-Haven-265065831014,,links taken from org website (uppervalleyhaven.org); site links more than one FB page; confirm before following
+Black Hills Area Community Foundation,foundation,SD,2026-10-28,https://www.facebook.com/BlackHillsAreaCommunityFoundation,https://www.linkedin.com/company/blackhillsareacommunityfoundation,links taken from org website (bhacf.org)
+Blue Grass Community Foundation,foundation,KY,2026-10-28,https://www.facebook.com/BGCFKY,https://www.linkedin.com/company/blue-grass-community-foundation,links taken from org website (bgcf.org)
+Community Foundation for Greater New Haven,foundation,CT,2026-10-28,https://www.facebook.com/cfgnh,https://www.linkedin.com/company/community-foundation-for-greater-new-haven,links taken from org website (cfgnh.org)
+Community Foundation for Southeast Michigan,foundation,MI,2026-10-28,https://www.facebook.com/cfsem,,links taken from org website (cfsem.org)
+Community Foundation of Central Georgia,foundation,GA,2026-10-28,https://www.facebook.com/CFCGA,,links taken from org website (cfcga.org)
+Community Foundation of Johnson County,foundation,IA,2026-10-28,https://www.facebook.com/CFJCiowa,,links taken from org website (cfjc.org)
+Community Foundation of Northern Illinois,foundation,IL,2026-10-28,https://www.facebook.com/cfnil,https://www.linkedin.com/company/cfnil,links taken from org website (cfnil.org)
+Con Alma Health Foundation,foundation,NM,2026-10-28,https://www.facebook.com/cahfnm,https://www.linkedin.com/company/cahfnm,links taken from org website (conalma.org)
+Episcopal Health Foundation,foundation,TX,2026-10-28,https://www.facebook.com/Health4Texas,https://www.linkedin.com/company/3804071,links taken from org website (episcopalhealth.org)
+Foundation for Appalachian Ohio,foundation,OH,2026-10-28,,,"org website did not load; links blank, not guessed"
+Greater Cedar Rapids Community Foundation,foundation,IA,2026-10-28,,,"org website did not load; links blank, not guessed"
+Health Foundation for Western & Central New York,foundation,NY,2026-10-28,https://www.facebook.com/hfwcny,https://www.linkedin.com/company/health-foundation-for-western-and-central-new-york,links taken from org website (hfwcny.org)
+Lincoln Community Foundation,foundation,NE,2026-10-28,,,"org website did not load; links blank, not guessed"
+North Dakota Community Foundation,foundation,ND,2026-10-28,https://www.facebook.com/NDCommunityFoundation,,links taken from org website (ndcf.net)
+REACH Healthcare Foundation,foundation,KS,2026-10-28,https://www.facebook.com/REACHHealthcareFoundation,https://www.linkedin.com/company/the-reach-healthcare-foundation,links taken from org website (reachhealth.org)
+Sioux Falls Area Community Foundation,foundation,SD,2026-10-28,https://www.facebook.com/siouxfallsareacommunityfoundation,https://www.linkedin.com/company/sioux-falls-area-community-foundation,links taken from org website (sfacf.org)
+Siouxland Community Foundation,foundation,IA,2026-10-28,https://www.facebook.com/siouxlandcommunityfoundation.org,https://www.linkedin.com/company/siouxland-community-foundation,links taken from org website (siouxlandcommunityfoundation.org)
+South Dakota Community Foundation,foundation,SD,2026-10-28,https://www.facebook.com/SDCommunityFoundation,,links taken from org website (sdcommunityfoundation.org)
+The Columbus Foundation,foundation,OH,2026-10-28,https://www.facebook.com/Center4HumanKindness,https://www.linkedin.com/company/the-columbus-foundation,links taken from org website (columbusfoundation.org); site links more than one FB page; confirm before following
+W.K. Kellogg Foundation,foundation,MI,2026-10-28,https://www.facebook.com/KelloggFoundation,,links taken from org website (wkkf.org)
+Wayne County Community Foundation,foundation,PA,2026-10-28,https://www.facebook.com/waynecountycommunityfoundation,,links taken from org website (waynefoundation.org)
+West Central Initiative,foundation,MN,2026-10-28,https://www.facebook.com/westcentralinitiative,https://www.linkedin.com/company/west-central-initiative,links taken from org website (wcif.org)
+ARCH Reentry,nonprofit,OH,2026-10-28,https://www.facebook.com/archreentry,,links taken from org website (archreentry.com)
+Bright Horizons,nonprofit,NE,2026-10-28,https://www.facebook.com/BrightHorizons.org,,links taken from org website (brighthorizonsne.org)
+Clarina Howard Nichols Center,nonprofit,VT,2026-10-28,https://www.facebook.com/jennaspromise,,links taken from org website (clarina.org); site links more than one FB page; confirm before following
+Emergency Support Shelter,nonprofit,WA,2026-10-28,https://www.facebook.com/Emergencysupportshelter,,links taken from org website (esshelter.com)
+Family Promise of Albuquerque,nonprofit,NM,2026-10-28,https://www.facebook.com/FamilyPromiseABQ,,links taken from org website (familypromiseabq.org)
+Family Resource Centers of Northeastern Nevada,nonprofit,NV,2026-10-28,https://www.facebook.com/135776546446929,,links taken from org website (elkofamilyresourcecenter.org)
+HAVEN,nonprofit,NH,2026-10-28,https://www.facebook.com/HAVENNH1,https://www.linkedin.com/company/haven-nh,links taken from org website (havennh.org)
+Hope for Prisoners,nonprofit,NV,2026-10-28,https://www.facebook.com/hopeforprisoners,https://www.linkedin.com/company/hopeforprisoners,links taken from org website (hopeforprisoners.org); site links more than one FB page; confirm before following
+Immerse Arkansas,nonprofit,AR,2026-10-28,,,no FB/LinkedIn link on org homepage (immersearkansas.org); left blank
+Project R.E.S.T.,nonprofit,SC,2026-10-28,https://www.facebook.com/projectrestsc,https://www.linkedin.com/company/projectrest,links taken from org website (projectrest.org)
+Recovery Cafe Lexington,nonprofit,KY,2026-10-28,https://www.facebook.com/recoverycafelex,,links taken from org website (recoverycafelexington.org)
+Response,nonprofit,CO,2026-10-28,https://www.facebook.com/responsehelps.org,,links taken from org website (responsehelps.org)
+Safe Harbors,nonprofit,OR,2026-10-28,,,no FB/LinkedIn link on org homepage (safeharbors.org); left blank
+SAFE in the Bitterroot,nonprofit,MT,2026-10-28,https://www.facebook.com/SAFEintheBitterroot,,links taken from org website (safeinthebitterroot.org)
+Safe Voices,nonprofit,ME,2026-10-28,,,no FB/LinkedIn link on org homepage (safevoices.org); left blank
+Safeline,nonprofit,VT,2026-10-28,https://www.facebook.com/SafelineVT,,links taken from org website (safelinevt.org)
+Salute To Home Foundation,nonprofit,TX,2026-10-28,,,no FB/LinkedIn link on org homepage (salutetohome.com); left blank
+Starlight Outreach,nonprofit,TX,2026-10-28,,,no FB/LinkedIn link on org homepage (starlightoutreach.org); left blank
+Surayya Anne Foundation,nonprofit,OK,2026-10-28,https://www.facebook.com/SurayyaAnneFoundation,,links taken from org website (surayyaannefoundation.org)
+Taos Community Against Violence,nonprofit,NM,2026-10-28,https://www.facebook.com/CAVTAOS,,links taken from org website (taoscav.org)
+The Harbor,nonprofit,OR,2026-10-28,https://www.facebook.com/harbornw,,links taken from org website (harbornw.org)
+WRAP,nonprofit,TN,2026-10-28,https://www.facebook.com/wrapwesttn,,links taken from org website (wraptn.org)
+A.V. Hunter Trust,foundation,CO,2026-10-29,,,no FB/LinkedIn link on org homepage (avhuntertrust.org); left blank
+Carbon County Community Foundation,foundation,PA,2026-10-29,https://www.facebook.com/cccfoundpa,https://www.linkedin.com/company/cccf,links taken from org website (cccfoundpa.org)
+"Carol Ann and Ralph V. Haile, Jr. Foundation",foundation,KY,2026-10-29,,,no FB/LinkedIn link on org homepage (hailefoundation.org); left blank
+Communities Foundation of Oklahoma,foundation,OK,2026-10-29,https://www.facebook.com/cfoklahoma,https://www.linkedin.com/company/cfok,links taken from org website (cfok.org)
+Community Foundation of Grant County,foundation,IN,2026-10-29,https://www.facebook.com/GiveToGrant,https://www.linkedin.com/company/community-foundation-of-grant-county-indiana-inc,links taken from org website (givetogrant.org)
+Community Foundation of North Central Wisconsin,foundation,WI,2026-10-29,https://www.facebook.com/CFONCW,https://www.linkedin.com/company/3138631,links taken from org website (cfoncw.org)
+Community Foundation Serving West Central Illinois & Northeast Missouri,foundation,IL,2026-10-29,https://www.facebook.com/mycommunityfoundation,https://www.linkedin.com/company/community-foundation-of-the-quincy-area,links taken from org website (mycommunityfoundation.org)
+Conrad and Virginia Klee Foundation,foundation,NY,2026-10-29,,,"org website did not load; links blank, not guessed"
+Copper Shores Community Health Foundation,foundation,MI,2026-10-29,https://www.facebook.com/coppershores.foundation,,links taken from org website (coppershores.org)
+Door County Community Foundation,foundation,WI,2026-10-29,https://www.facebook.com/doorcountycommunityfoundation,,links taken from org website (givedoorcounty.org)
+Eastern Carolina Community Foundation,foundation,SC,2026-10-29,https://www.facebook.com/easterncarolinacommunityfoundation,,links taken from org website (easterncarolinacf.org)
+Foundations Community Partnership,foundation,PA,2026-10-29,https://www.facebook.com/foundationscommunitypartnership,https://www.linkedin.com/company/fcpartnership,links taken from org website (fcpartnership.org)
+Grand Island Community Foundation,foundation,NE,2026-10-29,,,no FB/LinkedIn link on org homepage (gicf.org); left blank
+Marion Community Foundation,foundation,OH,2026-10-29,https://www.facebook.com/MarionCommFound,https://www.linkedin.com/company/marioncommfound,links taken from org website (marioncommunityfoundation.org)
+Northern Indiana Community Foundation,foundation,IN,2026-10-29,https://www.facebook.com/207271679290731,,links taken from org website (nicf.org)
+Southeast Virginia Community Foundation,foundation,VA,2026-10-29,https://www.facebook.com/SoutheastVACommunityFoundation,https://www.linkedin.com/company/the-southeast-virginia-community-foundation,links taken from org website (sevacf.org)
+Waccamaw Community Foundation,foundation,SC,2026-10-29,https://www.facebook.com/WaccamawCF,https://www.linkedin.com/company/waccamaw-community-foundation,links taken from org website (waccamawcf.org)
+Wellspring Foundation of Southwest Virginia,foundation,VA,2026-10-29,,,no FB/LinkedIn link on org homepage (wellspringva.org); left blank
+Western Indiana Community Foundation,foundation,IN,2026-10-29,https://www.facebook.com/WesternIndianaCF,https://www.linkedin.com/company/western-indiana-community-foundation,links taken from org website (wicf-inc.org)
+ASPEN (Abuse Support Prevention Education Network),nonprofit,MT,2026-10-29,https://www.facebook.com/aspenlivingstonmt,,links taken from org website (aspenmt.org)
+AVAIL Inc.,nonprofit,WI,2026-10-29,,,"org website did not load; links blank, not guessed"
+CADA (Committee Against Domestic Abuse),nonprofit,MN,2026-10-29,https://www.facebook.com/CADAMinnesota,,links taken from org website (cadamn.org)
+Citizens Against Domestic Violence (CADV/VOC),nonprofit,MO,2026-10-29,,,"org website did not load; links blank, not guessed"
+Colorado River Regional Crisis Services,nonprofit,AZ,2026-10-29,https://www.facebook.com/ColoradoRiverRegionalCrisisShelter,,links taken from org website (crrcs.com)
+Eve's Place,nonprofit,AZ,2026-10-29,https://www.facebook.com/Eves-Place-163364277014297,,links taken from org website (evesplace.org)
+Licking County Coalition for Housing,nonprofit,OH,2026-10-29,https://www.facebook.com/LCCHousing,,links taken from org website (lcchousing.org)
+Magdalene Omaha,nonprofit,NE,2026-10-29,https://www.facebook.com/magdaleneomaha,,links taken from org website (magdaleneomaha.org)
+My Sister's Place,nonprofit,OH,2026-10-29,,,no FB/LinkedIn link on org homepage (mspathens.org); left blank
+New Day Advocacy Center,nonprofit,WI,2026-10-29,https://www.facebook.com/ndshelter,https://www.linkedin.com/company/ndshelter,links taken from org website (ndshelter.org)
+New Song Ministries,nonprofit,WI,2026-10-29,,,no FB/LinkedIn link on org homepage (newsongpm.org); left blank
+Revive Recovery Resource Center,nonprofit,NH,2026-10-29,https://www.facebook.com/reviverecovery.org,https://www.linkedin.com/company/revive-recovery-resource-center,links taken from org website (reviverecovery.org)
+Rise (formerly SOS Shelter),nonprofit,NY,2026-10-29,https://www.facebook.com/risenybroome,,links taken from org website (rise-ny.org)
+Roads to Recovery,nonprofit,VA,2026-10-29,https://www.facebook.com/Roads-to-Recovery-148658151893618,,links taken from org website (roads2recovery.org)
+SAFE Project,nonprofit,WY,2026-10-29,https://www.facebook.com/Albany.County.SAFE.Project,,links taken from org website (safeproject.org)
+SOS Recovery Community Organization,nonprofit,NH,2026-10-29,https://www.facebook.com/sosrecovery,https://www.linkedin.com/company/sos-recovery-community-organization,links taken from org website (sosrco.org)
+T.O.N.E. U.P. Re-entry Services,nonprofit,MN,2026-10-29,,,no FB/LinkedIn link on org homepage (toneup.org); left blank
+Wisconsin Rapids Family Center,nonprofit,WI,2026-10-29,https://www.facebook.com/familyctr,,links taken from org website (familyctr.org)
+WoMen's Rural Advocacy Programs (WRAP),nonprofit,MN,2026-10-29,https://www.facebook.com/womensruraladvocacyprograms,,links taken from org website (letswrap.com)
+Baton Rouge Area Foundation,foundation,,2026-10-30,https://www.facebook.com/BRAF1964,https://www.linkedin.com/company/baton-rouge-area-foundation,links taken from org website (braf.org)
+Berks County Community Foundation,foundation,,2026-10-30,https://www.facebook.com/berkscountycommunityfoundation,https://www.linkedin.com/company/berks-county-community-foundation,links taken from org website (bccf.org)
+Berkshire Taconic Community Foundation,foundation,,2026-10-30,https://www.facebook.com/berkshiretaconic,https://www.linkedin.com/company/berkshire-taconic-community-foundation,links taken from org website (berkshiretaconic.org)
+Cape Cod Foundation,foundation,,2026-10-30,https://www.facebook.com/capecodfoundation,,links taken from org website (capecodfoundation.org)
+Community Foundation for Eastern Connecticut,foundation,,2026-10-30,https://www.facebook.com/CommunityFoundationofEasternConnecticut,https://www.linkedin.com/company/community-foundation-of-eastern-connecticut,links taken from org website (cfect.org)
+Community Foundation for Greater Buffalo,foundation,,2026-10-30,https://www.facebook.com/CommunityFoundationforGreaterBuffalo,https://www.linkedin.com/company/community-foundation-for-greater-buffalo,links taken from org website (cfgb.org)
+Community Foundation of Louisville,foundation,,2026-10-30,https://www.facebook.com/cflouisville,https://www.linkedin.com/company/2360988,links taken from org website (cflouisville.org)
+Community Foundation of Western Massachusetts,foundation,,2026-10-30,https://www.facebook.com/CommunityFoundationWMass,https://www.linkedin.com/company/community-foundation-of-western-massachusetts,links taken from org website (communityfoundation.org)
+Community Foundation Tampa Bay,foundation,,2026-10-30,https://www.facebook.com/CFTampaBay,https://www.linkedin.com/company/community-foundation-tampa-bay,links taken from org website (cftampabay.org)
+Greater Milwaukee Foundation,foundation,,2026-10-30,https://www.facebook.com/GreaterMilwaukeeFoundation,https://www.linkedin.com/company/greater-milwaukee-foundation,links taken from org website (greatermilwaukeefoundation.org)
+Gulf Coast Community Foundation,foundation,,2026-10-30,https://www.facebook.com/GulfCoastCommFnd,https://www.linkedin.com/company/gulfcoastcf,links taken from org website (gulfcoastcf.org)
+Maine Community Foundation,foundation,,2026-10-30,https://www.facebook.com/mainecf,https://www.linkedin.com/company/maine-community-foundation,links taken from org website (mainecf.org)
+Northland Foundation,foundation,,2026-10-30,https://www.facebook.com/NorthlandFdn,https://www.linkedin.com/company/northland-foundation,links taken from org website (northlandfdn.org)
+Quad Cities Community Foundation,foundation,,2026-10-30,https://www.facebook.com/qccommunityfoundation,https://www.linkedin.com/company/qccommunityfoundation,links taken from org website (qccommunityfoundation.org)
+Birmingham Re-Entry Alliance,nonprofit,,2026-10-30,,,no FB/LinkedIn link on org homepage (bhmreentry.org); left blank
+Branches Domestic Violence Shelter,nonprofit,,2026-10-30,https://www.facebook.com/branchesdvswv,,links taken from org website (branchesdvs.org)
+Dove Recovery House for Women,nonprofit,,2026-10-30,https://www.facebook.com/DoveRecovery,https://www.linkedin.com/company/dove-recovery-house-for-women,links taken from org website (doverecoveryhouse.org)
+Family Crisis Center,nonprofit,,2026-10-30,,,no FB/LinkedIn link on org homepage (familycrisisinc.org); left blank
+Family Crisis Center of South East Iowa,nonprofit,,2026-10-30,https://www.facebook.com/Family-Crisis-Center-240735002943890,,links taken from org website (familycrisiscenteriowa.org)
+Family Promise of Delaware,nonprofit,,2026-10-30,https://www.facebook.com/FamilyPromiseDE,,links taken from org website (familypromisede.org)
+Friendship Place,nonprofit,,2026-10-30,https://www.facebook.com/FriendshipPlaceSC,,links taken from org website (friendshipplaceinc.org)
+Gap Home,nonprofit,,2026-10-30,,,no org website on file; links not checked
+Greer Relief,nonprofit,,2026-10-30,,,"org website did not load; links blank, not guessed"
+HomeBridge Ventures,nonprofit,,2026-10-30,,,no FB/LinkedIn link on org homepage (homebridgeventures.org); left blank
+Light of Hope Mississippi,nonprofit,,2026-10-30,,,no FB/LinkedIn link on org homepage (lightofhopems.com); left blank
+Michigan Recovery Movement,nonprofit,,2026-10-30,https://www.facebook.com/MichiganRecoveryMovement,,links taken from org website (michiganrecoverymovement.org)
+New Beginnings Reentry Services,nonprofit,MA,2026-10-30,https://www.facebook.com/newbeginningsrs,https://www.linkedin.com/company/new-beginnings-reentry-services,links taken from org website (newbeginningsreentryservices.org)
+Offender Aid and Restoration (OAR),nonprofit,VA,2026-10-30,https://www.facebook.com/oarjustice,https://www.linkedin.com/company/oar-arlington,links taken from org website (oaronline.org); site links more than one FB page; confirm before following
+On The Way Home,nonprofit,,2026-10-30,,https://www.linkedin.com/company/on-the-way-home-reentry,links taken from org website (otwhreentry.org)
+OpenDoors,nonprofit,,2026-10-30,https://www.facebook.com/opendoorsri,,links taken from org website (opendoorsri.org)
+Outreach 419,nonprofit,,2026-10-30,,,no FB/LinkedIn link on org homepage (soberevents.us); left blank
+Recovery Worx,nonprofit,,2026-10-30,,,no FB/LinkedIn link on org homepage (recoveryworxmi.com); left blank
+ReEntry Alliance Pensacola (REAP),nonprofit,,2026-10-30,https://www.facebook.com/REAP-ReEntry-Alliance-Pensacola-277459762329846,,links taken from org website (reapreentry.org)
+Rural Resources,nonprofit,WA,2026-10-30,https://www.facebook.com/Rural-Resources-Community-Action-300579630290,,links taken from org website (ruralresources.org); site links more than one FB page; confirm before following
+SAFE Inc.,nonprofit,,2026-10-30,https://www.facebook.com/safeincWV,,links taken from org website (safeincwv.org)
+Saving Grace,nonprofit,OR,2026-10-30,https://www.facebook.com/ImagineLifeWithoutViolence,https://www.linkedin.com/company/savinggracebend,links taken from org website (saving-grace.org)
+Seeds of Hope Ministries,nonprofit,,2026-10-30,https://www.facebook.com/seedsofhopeministries,,links taken from org website (seedsofhopeministries.org)
+TLH Nonprofit,nonprofit,MA,2026-10-30,,,no FB/LinkedIn link on org homepage (tlhnonprofit.org); left blank
+Central New York Community Foundation,foundation,NY,2026-11-02,https://www.facebook.com/cnycf,https://www.linkedin.com/company/central-new-york-community-foundation,links taken from org website (cnycf.org)
+Charlottesville Area Community Foundation,foundation,VA,2026-11-02,https://www.facebook.com/cvilleareacf,https://www.linkedin.com/company/charlottesville-area-community-foundation,links taken from org website (cacfonline.org)
+Collaboratory,foundation,FL,2026-11-02,https://www.facebook.com/collaboratorysocial,https://www.linkedin.com/company/collaboratorysocial,links taken from org website (collaboratory.org)
+Community Foundation for the Ohio Valley,foundation,WV,2026-11-02,https://www.facebook.com/CommunityFoundationOhioValley,,links taken from org website (cfov.org)
+Community Foundation of Dickinson County,foundation,KS,2026-11-02,https://www.facebook.com/communityfoundationofdickinsoncounty,,links taken from org website (communityfoundation.us)
+Community Foundation of Greater Flint,foundation,MI,2026-11-02,https://www.facebook.com/giveflint,https://www.linkedin.com/company/giveflint,links taken from org website (cfgf.org)
+Community Foundation of Greater Greensboro,foundation,NC,2026-11-02,https://www.facebook.com/cfggnews,https://www.linkedin.com/company/community-foundation-of-greater-greensboro,links taken from org website (cfgg.org)
+Community Foundation of the Ozarks,foundation,MO,2026-11-02,https://www.facebook.com/cfozarks,,links taken from org website (cfozarks.org)
+Cumberland Community Foundation,foundation,NC,2026-11-02,https://www.facebook.com/CumberlandCommunityFoundation,https://www.linkedin.com/company/15885519,links taken from org website (cumberlandcf.org)
+Foundation for Appalachian Kentucky,foundation,KY,2026-11-02,https://www.facebook.com/appalachianky,https://www.linkedin.com/company/foundation-for-appalachian-kentucky,links taken from org website (appalachianky.org)
+Hampton Roads Community Foundation,foundation,VA,2026-11-02,,,"org website did not load; links blank, not guessed"
+Mississippi Gulf Coast Community Foundation,foundation,MS,2026-11-02,https://www.facebook.com/GulfCoastCommunityFoundation,https://www.linkedin.com/company/mgccf,links taken from org website (mgccf.org)
+Northwest Minnesota Foundation,foundation,MN,2026-11-02,https://www.facebook.com/nwmnfoundation,https://www.linkedin.com/company/northwest-minnesota-foundation,links taken from org website (nwmf.org)
+Omaha Community Foundation,foundation,NE,2026-11-02,https://www.facebook.com/omahafoundation,https://www.linkedin.com/company/omaha-community-foundation,links taken from org website (omahafoundation.org)
+Parkersburg Area Community Foundation,foundation,WV,2026-11-02,https://www.facebook.com/PACFwv,https://www.linkedin.com/company/pacfwv,links taken from org website (pacfwv.com)
+Sanilac County Community Foundation,foundation,MI,2026-11-02,https://www.facebook.com/sanilacgives,,links taken from org website (sanilacfoundation.org)
+The Dayton Foundation,foundation,OH,2026-11-02,https://www.facebook.com/TheDaytonFoundation,https://www.linkedin.com/company/the-dayton-foundation,links taken from org website (daytonfoundation.org)
+The Winston-Salem Foundation,foundation,NC,2026-11-02,https://www.facebook.com/winstonsalemfoundation,https://www.linkedin.com/company/wsfoundation,links taken from org website (wsfoundation.org)
+After Incarceration,nonprofit,NY,2026-11-02,,,no FB/LinkedIn link on org homepage (afterincarceration.org); left blank
+Chattanooga Room in the Inn,nonprofit,TN,2026-11-02,https://www.facebook.com/chattroomintheinn,https://www.linkedin.com/company/chattanoogaroomintheinn,links taken from org website (chattanoogaroomintheinn.com)
+CHR Partners,nonprofit,TX,2026-11-02,,,"org website did not load; links blank, not guessed"
+Dayspring Center,nonprofit,IN,2026-11-02,,,"org website did not load; links blank, not guessed"
+Faith & Wildflowers,nonprofit,TN,2026-11-02,https://www.facebook.com/faithandwildflowerstn,https://www.linkedin.com/company/faith-wildflowers,links taken from org website (faithandwildflowers.org)
+Family House,nonprofit,OH,2026-11-02,https://www.facebook.com/LFHToledo,https://www.linkedin.com/company/68239710,links taken from org website (familyhousetoledo.org)
+Family Promise of Tulsa County,nonprofit,OK,2026-11-02,https://www.facebook.com/FamilyPromiseOfTulsaCounty,https://www.linkedin.com/company/family-promise-of-tulsa-county,links taken from org website (familypromisetulsa.org)
+Father Bradley Shelter,nonprofit,KY,2026-11-02,,,no FB/LinkedIn link on org homepage (fatherbradleyshelter.com); left blank
+Foundation for Rural Housing,nonprofit,WI,2026-11-02,,,no FB/LinkedIn link on org homepage (ffrh.org); left blank
+Freedom House,nonprofit,IL,2026-11-02,https://www.facebook.com/freedomhouseillinois,https://www.linkedin.com/company/freedom-house-inc-illinois,links taken from org website (freedomhouseillinois.com)
+Gianna House,nonprofit,MI,2026-11-02,,,no FB/LinkedIn link on org homepage (giannahouse.org); left blank
+Homeward Bound NORMAN,nonprofit,OK,2026-11-02,,,no FB/LinkedIn link on org homepage (homewardnorman.org); left blank
+Legacy Reentry Foundation,nonprofit,IL,2026-11-02,https://www.facebook.com/LegacyReentry,https://www.linkedin.com/company/legacyreentry-foundationnfp,links taken from org website (legacyreentryfoundation.org)
+Living Waters Youth,nonprofit,MN,2026-11-02,,,no FB/LinkedIn link on org homepage (livingwatersyouths.org); left blank
+Mumineen Community Development Corporation,nonprofit,IN,2026-11-02,,,no FB/LinkedIn link on org homepage (mumineencdc.org); left blank
+Northwest Arkansas Continuum of Care,nonprofit,AR,2026-11-02,,,no FB/LinkedIn link on org homepage (nwacoc.com); left blank
+"OASIS, Inc.",nonprofit,NC,2026-11-02,,,"org website did not load; links blank, not guessed"
+People Advocating Recovery,nonprofit,KY,2026-11-02,https://www.facebook.com/peopleadvocatingrecovery,,links taken from org website (peopleadvocatingrecovery.org)
+Rahab House,nonprofit,TN,2026-11-02,,,no FB/LinkedIn link on org homepage (rahabhouse.com); left blank
+REACH of Haywood County,nonprofit,NC,2026-11-02,https://www.facebook.com/ReachOfHaywood,,links taken from org website (reachofhaywood.org)
+Redeeming Grace Ministries,nonprofit,AL,2026-11-02,,,"org website did not load; links blank, not guessed"
+Returning Citizens Support Group,nonprofit,NJ,2026-11-02,,,no FB/LinkedIn link on org homepage (returningcitizensnj.org); left blank
+RISE,nonprofit,NE,2026-11-02,,,no FB/LinkedIn link on org homepage (seeusrise.org); left blank
+SELF! Lehigh Valley Women's Reentry,nonprofit,PA,2026-11-02,https://www.facebook.com/Selflvwomensreentry,,links taken from org website (self-reentry.org)
+"STEPS, Inc.",nonprofit,VA,2026-11-02,https://www.facebook.com/steps247,,links taken from org website (steps-inc.org)
+The Caring Center,nonprofit,IN,2026-11-02,https://www.facebook.com/TheCaringCenter,,links taken from org website (thecaringcenter.net)
+The Empowerment Program,nonprofit,CO,2026-11-02,https://www.facebook.com/EmpowermentProgram,,links taken from org website (empowermentprogram.org)
+The Willow Collaborative,nonprofit,VA,2026-11-02,,,no FB/LinkedIn link on org homepage (thewillowcollaborative.org); left blank
+Unconditional,nonprofit,IN,2026-11-02,,,no FB/LinkedIn link on org homepage (unconditionalindy.com); left blank
+Wellness In Action,nonprofit,MT,2026-11-02,https://www.facebook.com/wiabigsky,,links taken from org website (bigskywia.org)
+Athens Area Community Foundation,foundation,GA,2026-11-03,https://www.facebook.com/AthensAreaCommunityFoundation,https://www.linkedin.com/company/athens-area-community-foundation,links taken from org website (athensareacf.org)
+Baltimore Community Foundation,foundation,MD,2026-11-03,,,"org website did not load; links blank, not guessed"
+Bell Community Foundation,foundation,TX,2026-11-03,,,no FB/LinkedIn link on org homepage (bellcommunityfoundation.org); left blank
+Capital Region Community Foundation,foundation,MI,2026-11-03,https://www.facebook.com/communityfoundation517,https://www.linkedin.com/company/communityfoundation,links taken from org website (ourcommunity.org)
+Community Foundation for Northeast Florida,foundation,FL,2026-11-03,https://www.facebook.com/cfjacksonville,https://www.linkedin.com/company/cfjacksonville,links taken from org website (jaxcf.org)
+Community Foundation for Northeast Georgia,foundation,GA,2026-11-03,https://www.facebook.com/cfneg,https://www.linkedin.com/company/1220601,links taken from org website (cfneg.org)
+Community Foundation of Central Blue Ridge,foundation,VA,2026-11-03,,,no FB/LinkedIn link on org homepage (cfcbr.org); left blank
+Community Foundation of East Central Illinois,foundation,IL,2026-11-03,https://www.facebook.com/CFECI,https://www.linkedin.com/company/community-foundation-of-east-central-illinois,links taken from org website (cfeci.org)
+Community Foundation of Frederick County,foundation,MD,2026-11-03,https://www.facebook.com/CommunityFoundationFredCo,https://www.linkedin.com/company/The-Community-Foundation-of-Frederick-County,links taken from org website (frederickcountygives.org)
+Community Foundation of Washington County,foundation,MD,2026-11-03,https://www.facebook.com/cfwashingtoncountymd,https://www.linkedin.com/company/community-foundation-of-washington-county-md-inc-,links taken from org website (cfwcmd.org)
+"Community Foundation Serving Howard, Clinton & Carroll Counties",foundation,IN,2026-11-03,,https://www.linkedin.com/company/community-foundation-of-howard-county-inc,links taken from org website (cfhoward.org)
+Greater Toledo Community Foundation,foundation,OH,2026-11-03,https://www.facebook.com/ToledoCF,https://www.linkedin.com/company/toledo-community-foundation,links taken from org website (toledocf.org)
+Iowa West Foundation,foundation,IA,2026-11-03,https://www.facebook.com/IowaWestFoundation,https://www.linkedin.com/company/iowa-west-foundation,links taken from org website (iowawestfoundation.org)
+Middletown Community Foundation,foundation,OH,2026-11-03,,,no FB/LinkedIn link on org homepage (mcfoundation.org); left blank
+Princeton Area Community Foundation,foundation,NJ,2026-11-03,https://www.facebook.com/PrincetonAreaCF%20,https://www.linkedin.com/company/princeton-area-community-foundation,links taken from org website (pacf.org)
+The Foundation for Enhancing Communities,foundation,PA,2026-11-03,https://www.facebook.com/TFECpa,https://www.linkedin.com/company/tfecpa,links taken from org website (tfec.org); site links more than one FB page; confirm before following
+The Portage Foundation,foundation,OH,2026-11-03,https://www.facebook.com/PortageFoundation,https://www.linkedin.com/company/portage-foundation,links taken from org website (portagefoundation.org)
+Topeka Community Foundation,foundation,KS,2026-11-03,https://www.facebook.com/TopekaCF,https://www.linkedin.com/company/topeka-community-foundation,links taken from org website (topekacommunityfoundation.org)
+Wichita Community Foundation,foundation,KS,2026-11-03,https://www.facebook.com/wichitafoundation,https://www.linkedin.com/company/wichitafoundation,links taken from org website (wichitafoundation.org)
+Alliance Against Family Violence,nonprofit,KS,2026-11-03,https://www.facebook.com/AAFV1984,,links taken from org website (aafvks.org)
+Bethel House,nonprofit,WI,2026-11-03,https://www.facebook.com/whitewaterbethelhouse,,links taken from org website (bethelhouseinc.org)
+Clear Creek Advocates,nonprofit,CO,2026-11-03,https://www.facebook.com/CCCAdvocates,,links taken from org website (clearcreekadvocates.org)
+Compassion In Action,nonprofit,AR,2026-11-03,,,no FB/LinkedIn link on org homepage (compassioninactionofar.org); left blank
+DOVES Program,nonprofit,NE,2026-11-03,https://www.facebook.com/thedovesprogram,,links taken from org website (dovesprogram.com)
+Family Promise Rochester,nonprofit,MN,2026-11-03,https://www.facebook.com/familypromiserochester,,links taken from org website (fprochestermn.org)
+Friends Against Family Violence,nonprofit,UT,2026-11-03,https://www.facebook.com/NEUFAFV,,links taken from org website (fafv.org); site links more than one FB page; confirm before following
+Good Helper Foundation,nonprofit,ME,2026-11-03,,,no FB/LinkedIn link on org homepage (good-helper-foundation.org); left blank
+Hearts & Ears,nonprofit,MD,2026-11-03,https://www.facebook.com/HeartsandEars,,links taken from org website (heartsandears.org)
+HOPE Baltimore,nonprofit,MD,2026-11-03,,,"org website did not load; links blank, not guessed"
+Hope Outreach,nonprofit,OK,2026-11-03,https://www.facebook.com/hopeoutreachenid,,links taken from org website (hopeoutreach.org)
+Inside Out Reentry Community,nonprofit,IA,2026-11-03,,,no FB/LinkedIn link on org homepage (insideoutreentry.com); left blank
+Isaiah House,nonprofit,NJ,2026-11-03,https://www.facebook.com/IsaiahHouseEastOrange,,links taken from org website (isaiahhouse.org)
+Mana Pono Holomua,nonprofit,HI,2026-11-03,,,no FB/LinkedIn link on org homepage (manaponoholomua.org); left blank
+New Roots Recovery and Support Centers,nonprofit,PA,2026-11-03,https://www.facebook.com/newrootspa,,links taken from org website (newrootspa.org)
+NorthBound & Co.,nonprofit,PA,2026-11-03,https://www.facebook.com/northboundcommunity,,links taken from org website (northboundandco.org)
+On Our Own of HoCo,nonprofit,MD,2026-11-03,,,no FB/LinkedIn link on org homepage (ooohci.org); left blank
+Options Domestic & Sexual Violence Services,nonprofit,KS,2026-11-03,,,no FB/LinkedIn link on org homepage (help4abuse.org); left blank
+Pinto Reconnect,nonprofit,CA,2026-11-03,,,no FB/LinkedIn link on org homepage (pintoreconnect.org); left blank
+Project Hope of Gunnison Valley,nonprofit,CO,2026-11-03,https://www.facebook.com/ProjectHopeGV,,links taken from org website (hope4gv.org)
+Sage's Army,nonprofit,PA,2026-11-03,https://www.facebook.com/sagesarmy,,links taken from org website (sagesarmy.com)
+The Family Resource Center,nonprofit,NH,2026-11-03,https://www.facebook.com/frc123.org,,links taken from org website (frc123.org)
+The Family Room,nonprofit,VT,2026-11-03,https://www.facebook.com/thefamilyroomvt,https://www.linkedin.com/company/the-janet-s-munt-family-room,links taken from org website (thefamilyroomvt.org)
+WARM Center,nonprofit,RI,2026-11-03,https://www.facebook.com/TheWarmCenter,,links taken from org website (warmcenter.org)
+WorkWell Partnership,nonprofit,NJ,2026-11-03,https://www.facebook.com/theworkwellpartnership,https://www.linkedin.com/company/workwell-partnership,links taken from org website (workwellpartnership.org)
+Communities of Coastal Georgia Foundation,foundation,GA,2026-11-04,https://www.facebook.com/coastalgafoundation,,links taken from org website (coastalgeorgiafoundation.org)
+Community Foundation of Northwest Mississippi,foundation,MS,2026-11-04,https://www.facebook.com/thecfnwms,https://www.linkedin.com/company/community-foundation-of-northwest-mississippi,links taken from org website (cfnm.org)
+Community Foundation of the Chattahoochee Valley,foundation,GA,2026-11-04,https://www.facebook.com/yourcfcv,,links taken from org website (cfcv.com)
+Elk County Community Foundation,foundation,PA,2026-11-04,https://www.facebook.com/elkcountycommunityfoundation,,links taken from org website (elkcountyfoundation.org); site links more than one FB page; confirm before following
+McKean County Community Foundation,foundation,PA,2026-11-04,https://www.facebook.com/McKeanCountyCommunityFoundation,,links taken from org website (mckeancountyfoundation.org); site links more than one FB page; confirm before following
+Michigan Gateway Community Foundation,foundation,MI,2026-11-04,https://www.facebook.com/michigangatewaycommunityfoundation,,links taken from org website (mgcf.org)
+The Community Foundations of the Hudson Valley,foundation,NY,2026-11-04,,,"org website did not load; links blank, not guessed"
+Circle of Hope,nonprofit,GA,2026-11-04,https://www.facebook.com/Circle.of.Hope.GA,https://www.linkedin.com/company/circle-of-hope-domestic-violence-services,links taken from org website (gacircleofhope.org)
+Community Partners for Recovery,nonprofit,KY,2026-11-04,,,no FB/LinkedIn link on org homepage (communitypartnersforrecovery.com); left blank
+Evolution Reentry Services,nonprofit,CT,2026-11-04,,,no FB/LinkedIn link on org homepage (evolutionreentry.org); left blank
+Family Crisis Center of the Big Bend,nonprofit,TX,2026-11-04,https://www.facebook.com/FamilyCrisisCenterOfTheBigBend,,links taken from org website (fccbb.org)
+Highland Lakes Family Crisis Center,nonprofit,TX,2026-11-04,,,"org website did not load; links blank, not guessed"
+Securus House,nonprofit,GA,2026-11-04,https://www.facebook.com/SecurusHouse1,https://www.linkedin.com/company/securus-house,links taken from org website (securushouse.org)
+West Georgia Domestic Violence Shelter,nonprofit,GA,2026-11-04,https://www.facebook.com/westgadomesticviolenceshelter,,links taken from org website (westgadv.org)
+Community Foundation for the Alleghenies,foundation,PA,2026-11-05,,,no FB/LinkedIn link on org homepage (cfalleghenies.org); left blank
+Community Foundation of Marquette County,foundation,MI,2026-11-05,https://www.facebook.com/cfofmc,,links taken from org website (cfofmc.org)
+Douglas County Community Foundation,foundation,CO,2026-11-05,https://www.facebook.com/DougCoCommunityFoundation,https://www.linkedin.com/company/douglas-county-community-foundation,links taken from org website (dccf.org)
+Gorge Community Foundation,foundation,OR,2026-11-05,,,"org website did not load; links blank, not guessed"
+Greater Fayette Community Foundation,foundation,TX,2026-11-05,https://www.facebook.com/greaterfcf,,links taken from org website (greaterfayette.com)
+Hillsdale County Community Foundation,foundation,MI,2026-11-05,https://www.facebook.com/HillsdaleCountyCommunityFoundation,,links taken from org website (abouthccf.org)
+Hutchinson Community Foundation,foundation,KS,2026-11-05,https://www.facebook.com/Hutchcf,https://www.linkedin.com/company/hutchinson-community-foundation,links taken from org website (hutchcf.org)
+"Love, Portland",foundation,OR,2026-11-05,,,no FB/LinkedIn link on org homepage (loveportlandoregon.org); left blank
+North Lee Community Foundation,foundation,IA,2026-11-05,,,no FB/LinkedIn link on org homepage (northleecf.org); left blank
+Olympic View Community Foundation,foundation,WA,2026-11-05,,,no FB/LinkedIn link on org homepage (ov-cf.org); left blank
+Park County Community Foundation,foundation,MT,2026-11-05,https://www.facebook.com/parkcountycommunityfoundation,https://www.linkedin.com/company/park-county-community-foundation,links taken from org website (pccf-montana.org)
+Solomon Valley Community Foundation,foundation,KS,2026-11-05,https://www.facebook.com/SolomonValleyCommunityFoundation,,links taken from org website (solomonvalleycf.org)
+Whittenberger Foundation,foundation,ID,2026-11-05,,,no FB/LinkedIn link on org homepage (whittenberger.org); left blank
+Bluff Country Family Resources,nonprofit,MN,2026-11-05,https://www.facebook.com/BCFR114,,links taken from org website (bluffcountry.org)
+Clean Living Athens,nonprofit,TN,2026-11-05,,,"org website did not load; links blank, not guessed"
+Compass Outreach,nonprofit,OR,2026-11-05,,,no FB/LinkedIn link on org homepage (compass-outreach.org); left blank
+Compassion Community Care Development Foundation,nonprofit,MD,2026-11-05,,,"org website did not load; links blank, not guessed"
+CrossBridge,nonprofit,TN,2026-11-05,,,no FB/LinkedIn link on org homepage (crossbridgeinc.org); left blank
+DreamTree Project,nonprofit,NM,2026-11-05,https://www.facebook.com/dreamtreeproject.taos,,links taken from org website (dreamtreeproject.org)
+Family Abuse Center,nonprofit,TX,2026-11-05,https://www.facebook.com/familyabusecenter,,links taken from org website (familyabusecenter.org)
+Family Life Center,nonprofit,HI,2026-11-05,https://www.facebook.com/flcmaui,,links taken from org website (flcmaui.org)
+Family Service Association,nonprofit,IN,2026-11-05,https://www.facebook.com/fsahc,,links taken from org website (fsahc.org)
+Fresh Start,nonprofit,LA,2026-11-05,https://www.facebook.com/FathersMatterNola,,links taken from org website (compassionoutreachoa.org)
+Good Neighbor Alliance,nonprofit,AZ,2026-11-05,https://www.facebook.com/GoodNeighborAlliance,,links taken from org website (svshelter.org)
+Hope House,nonprofit,OH,2026-11-05,https://www.facebook.com/HopeHouseofFindlay,,links taken from org website (findlayhopehouse.org)
+Hope's Bridge,nonprofit,AR,2026-11-05,,,no FB/LinkedIn link on org homepage (hopesbridge.org); left blank
+Housing Help of Lenawee,nonprofit,MI,2026-11-05,,,"org website did not load; links blank, not guessed"
+NCircle,nonprofit,KS,2026-11-05,https://www.facebook.com/NCircle-Together-100314488333816,https://www.linkedin.com/company/ncircle-community,links taken from org website (ncircle.org)
+Northern Lights Family Justice Center,nonprofit,MT,2026-11-05,,,no FB/LinkedIn link on org homepage (northernlightsbillings.org); left blank
+PREPARE,nonprofit,MD,2026-11-05,https://www.facebook.com/prepareparole,,links taken from org website (prepare-parole.org)
+Recovery Advocate for Transition Foundation (RAFT),nonprofit,OK,2026-11-05,,,no FB/LinkedIn link on org homepage (theraftedmond.org); left blank
+Released & Restored,nonprofit,NE,2026-11-05,,,"org website did not load; links blank, not guessed"
+Someplace Safe,nonprofit,MN,2026-11-05,,,no FB/LinkedIn link on org homepage (someplacesafe.info); left blank
+Su Casa,nonprofit,CA,2026-11-05,https://www.facebook.com/SuCasaEndingDomesticViolence,,links taken from org website (sucasadv.org)
+Verde Valley Homeless Coalition,nonprofit,AZ,2026-11-05,,,no FB/LinkedIn link on org homepage (verdevalleyhomelesscoalition.com); left blank
+West County Community Services,nonprofit,CA,2026-11-05,https://www.facebook.com/westcountycommunityservices,,links taken from org website (westcountyservices.org)
+Community Foundation of Noble County,foundation,IN,2026-11-06,https://www.facebook.com/noblecountycf,,links taken from org website (cfnoble.org)
+Decatur County Community Foundation,foundation,IN,2026-11-06,https://www.facebook.com/dccfound,https://www.linkedin.com/company/decatur-county-community-foundation,links taken from org website (dccfound.org)
+Grant County Community Foundation,foundation,KS,2026-11-06,https://www.facebook.com/GrantCCF,,links taken from org website (grantccf.org)
+Henry County Community Foundation,foundation,IN,2026-11-06,https://www.facebook.com/hccommunityfoundation,https://www.linkedin.com/company/2016407,links taken from org website (henrycountycf.org)
+Heritage Fund of Bartholomew County,foundation,IN,2026-11-06,,,no FB/LinkedIn link on org homepage (heritagefundbc.org); left blank
+Jackson Community Foundation,foundation,MI,2026-11-06,,,no FB/LinkedIn link on org homepage (jacksoncf.org); left blank
+Montgomery County Community Foundation,foundation,IN,2026-11-06,https://www.facebook.com/mccf.in,https://www.linkedin.com/company/montgomery-county-community-foundation,links taken from org website (mccf-in.org)
+Porter County Community Foundation,foundation,IN,2026-11-06,https://www.facebook.com/PorterCountyCommunityFoundation,https://www.linkedin.com/company/2287100,links taken from org website (pccf.gives)
+Unity Foundation of La Porte County,foundation,IN,2026-11-06,https://www.facebook.com/UnityFoundationLPC,https://www.linkedin.com/company/unity-foundation-of-la-porte-county,links taken from org website (uflc.net)
+Wichita County Community Foundation,foundation,KS,2026-11-06,,,no FB/LinkedIn link on org homepage (wccf.us); left blank
+Brothers and Sisters Behind Bars,nonprofit,SD,2026-11-06,https://www.facebook.com/BSBBWatertown,,links taken from org website (bsbbwatertown.com)
+Care Lodge,nonprofit,MS,2026-11-06,https://www.facebook.com/CareLodge,,links taken from org website (carelodge.com)
+Choose Aftercare,nonprofit,WI,2026-11-06,,,no FB/LinkedIn link on org homepage (chooseaftercare.org); left blank
+Delaware Womenade,nonprofit,DE,2026-11-06,https://www.facebook.com/delawarewomenade,,links taken from org website (delawarewomenade.org)
+Domestic Violence & Abuse Center,nonprofit,ND,2026-11-06,https://www.facebook.com/dvacnd,,links taken from org website (dvacnd.org)
+Family Crisis Shelter,nonprofit,ND,2026-11-06,https://www.facebook.com/familycrisisshelterinc,,links taken from org website (familycrisisshelter.com)
+Felony Friendly 208,nonprofit,ID,2026-11-06,,,no FB/LinkedIn link on org homepage (felonyfriendly208.com); left blank
+Huktaz'Un Shelter,nonprofit,AK,2026-11-06,,,no FB/LinkedIn link on org homepage (huktazun.org); left blank
+MentorWorks,nonprofit,UT,2026-11-06,https://www.facebook.com/familylifecenterut,,links taken from org website (thefamilylifecenter.org)
+Mesilla Valley Community of Hope,nonprofit,NM,2026-11-06,https://www.facebook.com/MVCommunityofHope,,links taken from org website (mvcommunityofhope.org)
+One Eighty,nonprofit,IA,2026-11-06,https://www.facebook.com/180zone,,links taken from org website (oneeighty.org)
+The Haven Reintegration Home,nonprofit,WI,2026-11-06,,,"org website did not load; links blank, not guessed"
+Women in Safe Homes,nonprofit,AK,2026-11-06,https://www.facebook.com/wishak.org,,links taken from org website (wishak.org)
+Adams County Community Foundation,foundation,IN,2026-11-09,,,no FB/LinkedIn link on org homepage (adamscountyfoundation.org); left blank
+Adirondack Community Foundation,foundation,NY,2026-11-09,https://www.facebook.com/ADKCommunityFdn,https://www.linkedin.com/company/adkcommunityfdn,links taken from org website (adkcommunityfoundation.org)
+Chautauqua Region Community Foundation,foundation,NY,2026-11-09,https://www.facebook.com/CRCFOnline,https://www.linkedin.com/company/1536760,links taken from org website (crcfonline.org)
+Community Foundation of Herkimer and Oneida Counties,foundation,NY,2026-11-09,https://www.facebook.com/foundationhoc,https://www.linkedin.com/company/foundationhoc,links taken from org website (foundationhoc.org)
+Community Foundation of North Central Florida,foundation,FL,2026-11-09,,,"org website did not load; links blank, not guessed"
+Community Foundation of South Jersey,foundation,NJ,2026-11-09,https://www.facebook.com/SJerseyGives,https://www.linkedin.com/company/sjerseygives,links taken from org website (communityfoundationsj.org)
+Community Foundation of the Fox River Valley,foundation,IL,2026-11-09,https://www.facebook.com/cffrv,https://www.linkedin.com/company/community-foundation-of-the-fox-river-valley,links taken from org website (cffrv.org)
+Community Foundation of the Lowcountry,foundation,SC,2026-11-09,https://www.facebook.com/CommunityFoundationoftheLowcountry,https://www.linkedin.com/company/community-foundation-of-the-lowcountry,links taken from org website (cf-lowcountry.org)
+Northern New York Community Foundation,foundation,NY,2026-11-09,https://www.facebook.com/119880371368722,https://www.linkedin.com/company/nnycf,links taken from org website (nnycf.org); site links more than one FB page; confirm before following
+Caring Unlimited,nonprofit,ME,2026-11-09,https://www.facebook.com/caring.unlimited,,links taken from org website (caring-unlimited.org)
+Elizabeth Freeman Center,nonprofit,MA,2026-11-09,,,no FB/LinkedIn link on org homepage (elizabethfreemancenter.org); left blank
+Helping Hands Hawaii,nonprofit,HI,2026-11-09,https://www.facebook.com/helpinghandshawaii,https://www.linkedin.com/company/helping-hands-hawaii,links taken from org website (helpinghandshawaii.org)
+Liberty Community Services,nonprofit,CT,2026-11-09,,,no FB/LinkedIn link on org homepage (libertycs.org); left blank
+Mississippi Coalition Against Domestic Violence,nonprofit,MS,2026-11-09,https://www.facebook.com/MCADVdotORG,,links taken from org website (mcadv.org)
+NextStep Domestic Violence Project,nonprofit,ME,2026-11-09,https://www.facebook.com/NextStepDVProject,,links taken from org website (nextstepdvproject.org)
+One Place Family Justice Center,nonprofit,AL,2026-11-09,https://www.facebook.com/oneplacefamilyjusticecenter,https://www.linkedin.com/company/one-place-justice-center,links taken from org website (oneplacefjc.org)
+Operation New Hope,nonprofit,FL,2026-11-09,https://www.facebook.com/renewhope,https://www.linkedin.com/company/operation-new-hope,links taken from org website (operationnewhope.org)
+Rape and Domestic Violence Information Center,nonprofit,WV,2026-11-09,https://www.facebook.com/RDVIC.org,,links taken from org website (rdvic.org)
+Refuge House,nonprofit,FL,2026-11-09,,,no FB/LinkedIn link on org homepage (refugehouse.com); left blank
+Women's Resource Center,nonprofit,RI,2026-11-09,,,"org website did not load; links blank, not guessed"
+Adams County Ohio Community Foundation,foundation,OH,2026-11-10,https://www.facebook.com/adamscountycommunityfoundation,,links taken from org website (accfo.org)
+Bayou Community Foundation,foundation,LA,2026-11-10,https://www.facebook.com/BayouCommunityFoundation,https://www.linkedin.com/company/89493171,links taken from org website (bayoucf.org)
+Black Belt Community Foundation,foundation,AL,2026-11-10,,,no FB/LinkedIn link on org homepage (blackbeltfound.org); left blank
+Central Kentucky Community Foundation,foundation,KY,2026-11-10,,,no FB/LinkedIn link on org homepage (ckcf4people.org); left blank
+Clarksville-Montgomery County Community Health Foundation,foundation,TN,2026-11-10,,,no FB/LinkedIn link on org homepage (communityhealthfoundation.org); left blank
+Community Foundation for Mississippi,foundation,MS,2026-11-10,,,no FB/LinkedIn link on org homepage (formississippi.org); left blank
+Community Foundation for Northern Virginia,foundation,VA,2026-11-10,,,"org website did not load; links blank, not guessed"
+Community Foundation for the Greater Capital Region,foundation,NY,2026-11-10,https://www.facebook.com/CFGCR,https://www.linkedin.com/company/cfgcr518,links taken from org website (cfgcr.org)
+Community Foundation of East Mississippi,foundation,MS,2026-11-10,,,"org website did not load; links blank, not guessed"
+"Community Foundation of Orange, Sullivan and Rockland",foundation,NY,2026-11-10,,,"org website did not load; links blank, not guessed"
+Community Foundation of Shelby County,foundation,OH,2026-11-10,https://www.facebook.com/CommunityFoundationofShelbyCountyOhio,https://www.linkedin.com/company/10330599,links taken from org website (commfoun.com)
+Community Foundation of West Alabama,foundation,AL,2026-11-10,https://www.facebook.com/CFWestAlabama,,links taken from org website (thecfwa.org)
+Erie County Community Foundation,foundation,OH,2026-11-10,https://www.facebook.com/ECCF95,https://www.linkedin.com/company/40652877,links taken from org website (eriefoundation.org)
+Fayette Community Foundation,foundation,IN,2026-11-10,https://www.facebook.com/Fayette-Community-Foundation-Connersville-369719452177,,links taken from org website (givetofcf.com)
+Heart of Rutherford Foundation,foundation,TN,2026-11-10,,,no FB/LinkedIn link on org homepage (heartofrutherfordfoundation.org); left blank
+Jefferson Foundation,foundation,MO,2026-11-10,,,no FB/LinkedIn link on org homepage (jfmo.org); left blank
+Muskingum County Community Foundation,foundation,OH,2026-11-10,https://www.facebook.com/MuskingumCountyCommunityFoundation,https://www.linkedin.com/company/muskingum-county-community-foundation,links taken from org website (mccf.org)
+Smith Family Foundation,foundation,TN,2026-11-10,,,no FB/LinkedIn link on org homepage (sfftn.org); left blank
+SND Eastern Kentucky Foundation,foundation,KY,2026-11-10,,,no FB/LinkedIn link on org homepage (sndekyfoundation.org); left blank
+South Cumberland Community Fund,foundation,TN,2026-11-10,https://www.facebook.com/southcumberlandcommunityfund,,links taken from org website (southcumberlandcommunityfund.org)
+Advocacy Center of Tompkins County,nonprofit,NY,2026-11-10,https://www.facebook.com/AdvocacyTC,,links taken from org website (actompkins.org)
+Alternatives to Violence of the Palouse,nonprofit,WA,2026-11-10,https://www.facebook.com/atvpsupport,,links taken from org website (atvp.org)
+AWARE,nonprofit,MI,2026-11-10,https://www.facebook.com/AwareShelter,https://www.linkedin.com/company/aware-shelter,links taken from org website (awareshelter.org)
+Cuyama Valley Family Resource Center,nonprofit,CA,2026-11-10,,,"org website did not load; links blank, not guessed"
+Doors of Hope,nonprofit,TN,2026-11-10,https://www.facebook.com/opendoorsofhope,,links taken from org website (opendoorsofhope.org); site links more than one FB page; confirm before following
+Family Refuge Center,nonprofit,WV,2026-11-10,https://www.facebook.com/familyrefugecenter,,links taken from org website (familyrefugecenter.org)
+Gulf Coast Center for Nonviolence,nonprofit,MS,2026-11-10,https://www.facebook.com/GCCFN,,links taken from org website (gccfn.org); site links more than one FB page; confirm before following
+HAVEN of Tioga County,nonprofit,PA,2026-11-10,https://www.facebook.com/HAVENofTC,,links taken from org website (havenoftiogacounty.org)
+Heal House of Iowa,nonprofit,IA,2026-11-10,https://www.facebook.com/HEALHouseOfIowa,,links taken from org website (healhouseofiowa.org); site links more than one FB page; confirm before following
+Hope Shores Alliance,nonprofit,MI,2026-11-10,https://www.facebook.com/HopeShoresAlliance,,links taken from org website (hopeshores.org)
+I Care Too,nonprofit,IL,2026-11-10,,,no FB/LinkedIn link on org homepage (icaretoo.org); left blank
+JUST of DuPage,nonprofit,IL,2026-11-10,https://www.facebook.com/JUSTDuPage,https://www.linkedin.com/company/just-of-dupage,links taken from org website (justdupage.org)
+LACADA,nonprofit,MI,2026-11-10,https://www.facebook.com/LACADA.org,,links taken from org website (lacada.org)
+Laytonville Healthy Start Family Resource Center,nonprofit,CA,2026-11-10,,,no FB/LinkedIn link on org homepage (laytonville.org); left blank
+Leavenworth Interfaith Community of Hope,nonprofit,KS,2026-11-10,https://www.facebook.com/LeavenworthInterfaithCommunityofHope,,links taken from org website (lvcommunityofhope.org)
+R.E.A.C.H. of Macon County,nonprofit,NC,2026-11-10,https://www.facebook.com/REACHofMacon,,links taken from org website (reachofmaconcounty.org); site links more than one FB page; confirm before following
+RACS (Rape & Abuse Crisis Service),nonprofit,MO,2026-11-10,https://www.facebook.com/RACSJC,https://www.linkedin.com/company/rape-,links taken from org website (racsjc.org)
+Rebirth Community Co,nonprofit,AL,2026-11-10,https://www.facebook.com/RebirthCommunityCorporation,https://www.linkedin.com/company/rebirthcc,links taken from org website (rebirthcc.org)
+Refuge in the Storm El Dorado,nonprofit,KS,2026-11-10,https://www.facebook.com/butlerhomelessinitiative,,links taken from org website (rise-eldorado.org)
+Safe Haven of Pender,nonprofit,NC,2026-11-10,https://www.facebook.com/SafeHavenPender,,links taken from org website (safehavenofpender.com)
+SafeHouse of Shelby County,nonprofit,AL,2026-11-10,https://www.facebook.com/SafeHouseShelby,,links taken from org website (safehouse.org)
+Second Bloom of Chatham,nonprofit,NC,2026-11-10,,,no FB/LinkedIn link on org homepage (secondbloomofchatham.org); left blank
+Southern Missouri Advocates,nonprofit,MO,2026-11-10,,,no FB/LinkedIn link on org homepage (somoadvocates.org); left blank
+Stronger Together Outreach,nonprofit,TN,2026-11-10,,https://www.linkedin.com/company/stronger-together-outreach,links taken from org website (strongertogetheroutreach.org)
+The Faith Project,nonprofit,GA,2026-11-10,https://www.facebook.com/faithprojectatl,,links taken from org website (faithprojectatl.org)
+"The Lighthouse Advocacy, Prevention, and Education Center",nonprofit,WA,2026-11-10,,,no FB/LinkedIn link on org homepage (thelighthousewa.org); left blank
+UnBound216,nonprofit,AL,2026-11-10,https://www.facebook.com/UnBound216,,links taken from org website (unbound216.org)
+Until We Br8K Thru,nonprofit,GA,2026-11-10,,,no FB/LinkedIn link on org homepage (untilwebr8kthru.org); left blank
+Women's Center of Beaver County,nonprofit,PA,2026-11-10,,,no FB/LinkedIn link on org homepage (womenscenterbc.org); left blank
+Anthony F. Cordeiro Charitable Foundation,foundation,MA,2026-11-11,https://www.facebook.com/cordeirocharitablefoundation,https://www.linkedin.com/company/anthony-f-cordeiro-charitable-foundation-inc,links taken from org website (cordeirocharitablefoundation.org)
+Carl M. Freeman Foundation,foundation,DE,2026-11-11,https://www.facebook.com/carlfreemanfoundation,,links taken from org website (carlmfreemanfoundation.org)
+Cogswell Benevolent Trust,foundation,NH,2026-11-11,,,no FB/LinkedIn link on org homepage (cogswellbenevolenttrust.org); left blank
+Community Foundation of Southwest Louisiana,foundation,LA,2026-11-11,https://www.facebook.com/Community-Foundation-of-Southwest-Louisiana-1461991510685100,,links taken from org website (foundationswla.org)
+Delaware Community Foundation,foundation,DE,2026-11-11,https://www.facebook.com/DelawareCF,https://www.linkedin.com/company/delcommunity,links taken from org website (delcf.org)
+Eastern West Virginia Community Foundation,foundation,WV,2026-11-11,,,"org website did not load; links blank, not guessed"
+Endowment for Health,foundation,NH,2026-11-11,https://www.facebook.com/EndowmentforHealth,https://www.linkedin.com/company/endowment-for-health,links taken from org website (endowmentforhealth.org)
+Essex County Community Foundation,foundation,MA,2026-11-11,https://www.facebook.com/ECCFBulletin,https://www.linkedin.com/company/essex-county-community-foundation,links taken from org website (eccf.org)
+FM Area Foundation,foundation,ND,2026-11-11,,,no FB/LinkedIn link on org homepage (areafoundation.org); left blank
+Homer Foundation,foundation,AK,2026-11-11,https://www.facebook.com/HomerFoundation,,links taken from org website (homerfoundation.org)
+Maui Community Foundation,foundation,HI,2026-11-11,,,no FB/LinkedIn link on org homepage (mauicf.org); left blank
+Phelps County Community Foundation,foundation,NE,2026-11-11,https://www.facebook.com/PhelpsCo.Foundation,,links taken from org website (phelpsfoundation.org)
+Pinhook Foundation,foundation,LA,2026-11-11,,,no FB/LinkedIn link on org homepage (pinhookfoundation.org); left blank
+Seeley Lake Community Foundation,foundation,MT,2026-11-11,https://www.facebook.com/SeeleyLakeCommunityFoundation,,links taken from org website (slcfmt.org)
+Sitka Foundation,foundation,AK,2026-11-11,,,"org website did not load; links blank, not guessed"
+Story County Foundation,foundation,IA,2026-11-11,,,"org website did not load; links blank, not guessed"
+The Agnes M. Lindsay Trust,foundation,MA,2026-11-11,,,no FB/LinkedIn link on org homepage (lindsaytrust.org); left blank
+The Westfield Foundation,foundation,NJ,2026-11-11,https://www.facebook.com/The-Westfield-Foundation-105298792220672,https://www.linkedin.com/company/81957988,links taken from org website (thewestfieldfoundation.org)
+Valley Community Foundation,foundation,CT,2026-11-11,https://www.facebook.com/vcfct,,links taken from org website (valleyfoundation.org)
+Advocacy & Resource Center,nonprofit,WY,2026-11-11,,,"org website did not load; links blank, not guessed"
+Community Violence Intervention Center,nonprofit,ND,2026-11-11,https://www.facebook.com/cvicgf,https://www.linkedin.com/company/community-violence-intervention-center,links taken from org website (cviconline.org)
+Fail Forward Foundation,nonprofit,CT,2026-11-11,,,no FB/LinkedIn link on org homepage (failforwardfoundation.com); left blank
+Family Promise Essex,nonprofit,NJ,2026-11-11,https://www.facebook.com/IHNEssex,https://www.linkedin.com/company/family-promise-essex,links taken from org website (fpessexnj.org); site links more than one FB page; confirm before following
+Family Promise of Hawaii,nonprofit,HI,2026-11-11,https://www.facebook.com/FPHawaii,,links taken from org website (familypromisehawaii.org)
+Family Promise of Hunterdon County,nonprofit,NJ,2026-11-11,,,no FB/LinkedIn link on org homepage (familypromisehc.org); left blank
+Family Promise of Morris County,nonprofit,NJ,2026-11-11,https://www.facebook.com/FamilyPromiseMorris,https://www.linkedin.com/company/family-promise-of-morris-county,links taken from org website (familypromisemorris.org)
+Fifth Street Renaissance,nonprofit,IL,2026-11-11,https://www.facebook.com/5thstreetrenaissance,https://www.linkedin.com/company/5thstreetrenaissance,links taken from org website (fsr-sara.org)
+Friendship House,nonprofit,DE,2026-11-11,,,"org website did not load; links blank, not guessed"
+Gillette Abuse Refuge Foundation,nonprofit,WY,2026-11-11,https://www.facebook.com/gilletteabuserefugefoundation,,links taken from org website (garfwyo.org)
+Haven House,nonprofit,AK,2026-11-11,https://www.facebook.com/havenhousealaska,,links taken from org website (havenhousealaska.org)
+HAWC,nonprofit,MA,2026-11-11,https://www.facebook.com/HAWCNorthShore,https://www.linkedin.com/company/hawc-healing-abuse-working-for-change,links taken from org website (hawcdv.org)
+Home of the Sparrow,nonprofit,IL,2026-11-11,https://www.facebook.com/homeofthesparrowillinois,https://www.linkedin.com/company/home-of-the-sparrow,links taken from org website (hosparrow.org)
+Independence House,nonprofit,MA,2026-11-11,https://www.facebook.com/IndependenceHouseInc,,links taken from org website (independencehouse.org); site links more than one FB page; confirm before following
+Interior Alaska Center for Non-Violent Living,nonprofit,AK,2026-11-11,,,"org website did not load; links blank, not guessed"
+Iron County Care and Share,nonprofit,UT,2026-11-11,https://www.facebook.com/ironcountycareandshare,,links taken from org website (careandshare-ut.org)
+Nevada Outreach Training Organization,nonprofit,NV,2026-11-11,,,no FB/LinkedIn link on org homepage (nevadaoutreach.org); left blank
+Nomad Alliance,nonprofit,UT,2026-11-11,https://www.facebook.com/nomadalliance,,links taken from org website (nomadalliance.org); site links more than one FB page; confirm before following
+Rise Recovery Center,nonprofit,IA,2026-11-11,,,no FB/LinkedIn link on org homepage (riseiowa.org); left blank
+RISE West Virginia,nonprofit,WV,2026-11-11,,,no FB/LinkedIn link on org homepage (risewv.org); left blank
+Safehouse Services,nonprofit,WY,2026-11-11,https://www.facebook.com/safehousecheyenne,,links taken from org website (wyomingsafehouse.org)
+SHIELD Ministries,nonprofit,SC,2026-11-11,,,no FB/LinkedIn link on org homepage (shieldministries.org); left blank
+Sojourner House,nonprofit,RI,2026-11-11,,,"org website did not load; links blank, not guessed"
+Turn90,nonprofit,SC,2026-11-11,https://www.facebook.com/TurnNinety,https://www.linkedin.com/company/turn-90,links taken from org website (turnninety.com)
+Unchained Grace,nonprofit,SC,2026-11-11,,,no FB/LinkedIn link on org homepage (unchainedgraceinc.org); left blank
+Unity In Action,nonprofit,NY,2026-11-11,,https://www.linkedin.com/company/unity-in-action-a-d5-initiative,links taken from org website (unityinactionny.org)
+Wesley House Community Center,nonprofit,MS,2026-11-11,https://www.facebook.com/wesleyhousemeridian,,links taken from org website (wesleyhousemeridian.org)
+Women Helping Women,nonprofit,HI,2026-11-11,https://www.facebook.com/WomenHelpingWomenMaui,,links taken from org website (whwmaui.net)
+Youth Futures,nonprofit,UT,2026-11-11,https://www.facebook.com/youthfuturesut,https://www.linkedin.com/company/youth-futures-utah,links taken from org website (youthfuturesutah.org)
+Aberdeen Area Community Foundation,foundation,SD,2026-11-12,https://www.facebook.com/AberdeenAreaCommunityFoundation,,links taken from org website (aberdeencommunityfoundation.com)
+CenDel Foundation,foundation,DE,2026-11-12,https://www.facebook.com/CenDelFoundation,,links taken from org website (cendelfoundation.org)
+Central Carolina Community Foundation,foundation,SC,2026-11-12,https://www.facebook.com/CentralCarolinaCommunityFoundation,https://www.linkedin.com/company/central-carolina-community-foundation,links taken from org website (yourfoundation.org)
+Central Florida Foundation,foundation,FL,2026-11-12,https://www.facebook.com/cffound,https://www.linkedin.com/company/centralfloridafoundation,links taken from org website (cffound.org)
+Community Foundation of Greater Birmingham,foundation,AL,2026-11-12,,,no FB/LinkedIn link on org homepage (foundationbirmingham.org); left blank
+Community Foundation of Middlesex County,foundation,CT,2026-11-12,,,"org website did not load; links blank, not guessed"
+Connecticut Community Foundation,foundation,CT,2026-11-12,https://www.facebook.com/TheConnecticutCommunityFoundation,https://www.linkedin.com/company/ct-community-foundation,links taken from org website (conncf.org)
+Elmina B. Sewall Foundation,foundation,ME,2026-11-12,https://www.facebook.com/128165811338750,,links taken from org website (sewallfoundation.org)
+George S. and Dolores Doré Eccles Foundation,foundation,UT,2026-11-12,,https://www.linkedin.com/company/george-eccles-foundation,links taken from org website (gseccles.org)
+Horizon Foundation,foundation,MA,2026-11-12,,,no FB/LinkedIn link on org homepage (horizonfoundation.org); left blank
+Kenny Family Foundation,foundation,DE,2026-11-12,https://www.facebook.com/KennyFamilyFoundation,,links taken from org website (kffde.org); site links more than one FB page; confirm before following
+LGP Community Foundation,foundation,RI,2026-11-12,https://www.facebook.com/lgpcommunityfoundation,,links taken from org website (lgpcommunityfoundation.org)
+McMurry Foundation,foundation,WY,2026-11-12,,,no FB/LinkedIn link on org homepage (mcmurryfoundation.org); left blank
+Racine Community Foundation,foundation,WI,2026-11-12,https://www.facebook.com/RacineCommunityFoundation,https://www.linkedin.com/company/racine-community-foundation,links taken from org website (racinecommunityfoundation.org)
+Stratton Foundation,foundation,VT,2026-11-12,,https://www.linkedin.com/company/strattonvt,links taken from org website (strattonfoundation.org)
+Town Fair Tire Foundation,foundation,CT,2026-11-12,,,no FB/LinkedIn link on org homepage (townfairtirefoundation.org); left blank
+Vermont Children's Trust Foundation,foundation,VT,2026-11-12,https://www.facebook.com/Vermont-Childrens-Trust-Foundation-357254244780,,links taken from org website (vtchildrenstrust.org)
+Welfare Foundation,foundation,DE,2026-11-12,,,no FB/LinkedIn link on org homepage (welfarefoundationde.org); left blank
+Whitewater Community Foundation,foundation,WI,2026-11-12,https://www.facebook.com/whitewatercommunityfoundation,,links taken from org website (whitewatercommunityfoundation.org)
+Women's Foundation of Mississippi,foundation,MS,2026-11-12,,,no FB/LinkedIn link on org homepage (womensfoundationms.org); left blank
+Back On Track,nonprofit,AR,2026-11-12,,,no FB/LinkedIn link on org homepage (backontrackjb.com); left blank
+Big Bend After Re-Entry Coalition,nonprofit,FL,2026-11-12,https://www.facebook.com/Bigbendreentry,,links taken from org website (bigbendreentry.org); site links more than one FB page; confirm before following
+Center for Empowerment and Education,nonprofit,CT,2026-11-12,https://www.facebook.com/TheCenterEE,https://www.linkedin.com/company/thecenterforempowermentandeducation,links taken from org website (thecenterct.org)
+ChildLaw Services,nonprofit,WV,2026-11-12,https://www.facebook.com/ChildLawServicesInc,,links taken from org website (childlawservices.org)
+Cross Roads House,nonprofit,NH,2026-11-12,https://www.facebook.com/crossroadshousenh,,links taken from org website (crossroadshouse.org)
+Delaware Center for Justice,nonprofit,DE,2026-11-12,https://www.facebook.com/DelawareCenterForJusticeInc,,links taken from org website (dcjustice.org)
+Fair Tide,nonprofit,ME,2026-11-12,https://www.facebook.com/FairTide,,links taken from org website (fairtide.org)
+Garden Time,nonprofit,RI,2026-11-12,https://www.facebook.com/gardentime.us,,links taken from org website (gardentime.us)
+Good Samaritan Haven,nonprofit,VT,2026-11-12,https://www.facebook.com/Good-Samaritan-Haven-154990691203479,,links taken from org website (goodsamaritanhaven.org)
+Grace House,nonprofit,MS,2026-11-12,https://www.facebook.com/GraceHouseMS,,links taken from org website (gracehousems.org)
+Hundred Nights,nonprofit,NH,2026-11-12,,,"org website did not load; links blank, not guessed"
+Interfaith Sanctuary,nonprofit,ID,2026-11-12,,,no FB/LinkedIn link on org homepage (interfaithsanctuary.org); left blank
+Juneau Reentry Coalition,nonprofit,AK,2026-11-12,https://www.facebook.com/JuneauReentryCoalition,,links taken from org website (juneaureentry.org)
+Lamoille Community House,nonprofit,VT,2026-11-12,https://www.facebook.com/LamoilleCommunityHouse,,links taken from org website (lamoilleshelter.org)
+Mid-Maine Homeless Shelter and Services,nonprofit,ME,2026-11-12,,,no FB/LinkedIn link on org homepage (shelterme.org); left blank
+Partners for Peace,nonprofit,ME,2026-11-12,https://www.facebook.com/partnersforpeaceme,,links taken from org website (partnersforpeaceme.org)
+Pathway to Freedom Foundation,nonprofit,FL,2026-11-12,,,no FB/LinkedIn link on org homepage (pathwayfreedom.org); left blank
+Phoenix Odyssey,nonprofit,RI,2026-11-12,,,no FB/LinkedIn link on org homepage (phoenixodyssey.org); left blank
+Project SAGE,nonprofit,CT,2026-11-12,https://www.facebook.com/project.sage.connecticut,https://www.linkedin.com/company/projectsage,links taken from org website (project-sage.org)
+Reentry Campus Program,nonprofit,RI,2026-11-12,https://www.facebook.com/reentrycampusprogram.org,https://www.linkedin.com/company/reentry-campus-program,links taken from org website (reentrycampusprogram.org)
+Riverside House,nonprofit,FL,2026-11-12,https://www.facebook.com/MiamiRiversideHouse,https://www.linkedin.com/company/riverside-house,links taken from org website (riversidehouse.org)
+Safe Futures,nonprofit,CT,2026-11-12,https://www.facebook.com/safefuturesct,,links taken from org website (safefuturesct.org)
+Sojourners' Place,nonprofit,DE,2026-11-12,https://www.facebook.com/SojoPlace,,links taken from org website (sojournersplace.org)
+Stewpot Community Services,nonprofit,MS,2026-11-12,https://www.facebook.com/stewpotcommunityservices,https://www.linkedin.com/company/stewpot-community-services,links taken from org website (stewpot.org)
+The Lord's Place,nonprofit,FL,2026-11-12,https://www.facebook.com/thelordsplace,https://www.linkedin.com/company/1884503,links taken from org website (thelordsplace.org)
+The Way Home,nonprofit,DE,2026-11-12,https://www.facebook.com/pathfindersofsd,https://www.linkedin.com/company/pathfindersofsd,links taken from org website (twhprogram.org)
+Valley Charities,nonprofit,AK,2026-11-12,,,"org website did not load; links blank, not guessed"
+Valley House,nonprofit,ID,2026-11-12,,,"org website did not load; links blank, not guessed"
+Women & Children First,nonprofit,AR,2026-11-12,https://www.facebook.com/WCFarkansas,,links taken from org website (wcfarkansas.org)
+YWCA Cass Clay,nonprofit,ND,2026-11-12,https://www.facebook.com/ywcacassclay,https://www.linkedin.com/company/ywcacassclay,links taken from org website (ywcacassclay.org)
+Ball Brothers Foundation,foundation,IN,2026-11-13,https://www.facebook.com/Ball-Brothers-Foundation-132558043609723,https://www.linkedin.com/company/ball-brothers-foundation,links taken from org website (ballfdn.org)
+Battle Creek Community Foundation,foundation,MI,2026-11-13,,,"org website did not load; links blank, not guessed"
+Beckley Area Foundation,foundation,WV,2026-11-13,,,"org website did not load; links blank, not guessed"
+Cherokee Strip Community Foundation,foundation,OK,2026-11-13,https://www.facebook.com/CherokeeStripCommunityFoundation,https://www.linkedin.com/company/cherokee-strip-community-foundation,links taken from org website (cherokeestripcf.com)
+"Community Foundation of Grand Forks, East Grand Forks and Region",foundation,ND,2026-11-13,https://www.facebook.com/communityfoundationGFEGF,https://www.linkedin.com/company/15660870,links taken from org website (gofoundation.org)
+Community Foundation of Howard County,foundation,IN,2026-11-13,https://www.facebook.com/CFHoCo,,links taken from org website (cfhoco.org)
+Community Foundation of Muncie and Delaware County,foundation,IN,2026-11-13,https://www.facebook.com/CFMDIN,https://www.linkedin.com/company/cfmdin,links taken from org website (cfmdin.org)
+Community Foundation of North Louisiana,foundation,LA,2026-11-13,https://www.facebook.com/CFNLA,https://www.linkedin.com/company/cfnla,links taken from org website (cfnla.org)
+Community Foundation of the Holland/Zeeland Area,foundation,MI,2026-11-13,https://www.facebook.com/cfohz,https://www.linkedin.com/company/2280085,links taken from org website (cfhz.org)
+Community Foundation of West Kentucky,foundation,KY,2026-11-13,,,"org website did not load; links blank, not guessed"
+Fremont Area Community Foundation,foundation,NE,2026-11-13,https://www.facebook.com/facfoundation,https://www.linkedin.com/company/fremont-area-community-foundation-ne-,links taken from org website (facfoundation.org); site links more than one FB page; confirm before following
+Johnson County Community Foundation,foundation,IN,2026-11-13,,,"org website did not load; links blank, not guessed"
+Kearney Area Community Foundation,foundation,NE,2026-11-13,https://www.facebook.com/Kearney-Area-Community-Foundation-118780074843224,,links taken from org website (kearneyfoundation.org); site links more than one FB page; confirm before following
+Kosciusko County Community Foundation,foundation,IN,2026-11-13,https://www.facebook.com/gotoKCCF,,links taken from org website (kcfoundation.org)
+Madison County Community Foundation,foundation,IN,2026-11-13,https://www.facebook.com/madisonccf,https://www.linkedin.com/company/madison-county-community-foundation,links taken from org website (madisonccf.org)
+Mason County Community Foundation,foundation,WV,2026-11-13,https://www.facebook.com/CommunityFoundationOfMasonCounty,,links taken from org website (mccfinc.org); site links more than one FB page; confirm before following
+Saginaw Community Foundation,foundation,MI,2026-11-13,https://www.facebook.com/saginawcommunityfoundation,https://www.linkedin.com/company/saginaw-community-foundation,links taken from org website (saginawfoundation.org)
+Sheyenne Valley Community Foundation,foundation,ND,2026-11-13,https://www.facebook.com/SheyenneValleyCommunityFoundation,,links taken from org website (yoursvcf.org)
+Steuben County Community Foundation,foundation,IN,2026-11-13,https://www.facebook.com/steubenfoundation,https://www.linkedin.com/company/steuben-county-community-foundation,links taken from org website (steubenfoundation.org)
+Your Community Foundation,foundation,WV,2026-11-13,https://www.facebook.com/YCFNCWV,https://www.linkedin.com/company/your-community-foundation,links taken from org website (ycfwv.org)
+Bay Area Women's Center,nonprofit,MI,2026-11-13,https://www.facebook.com/BayAreaWomensCenter,,links taken from org website (bawc-mi.org)
+BRIDGE CDC,nonprofit,SC,2026-11-13,https://www.facebook.com/AlabasterHouseRecovery,,links taken from org website (bridgecdc.org); site links more than one FB page; confirm before following
+Bridges To Life,nonprofit,TX,2026-11-13,https://www.facebook.com/bridgestolife,,links taken from org website (bridgestolife.org)
+Chrysalis House,nonprofit,KY,2026-11-13,https://www.facebook.com/ChrysalisLex,,links taken from org website (chrysalishouse.org); site links more than one FB page; confirm before following
+Community Crisis Center,nonprofit,OK,2026-11-13,https://www.facebook.com/communitycrisiscenter,,links taken from org website (getmeout.org)
+Dismas House of Indiana,nonprofit,IN,2026-11-13,https://www.facebook.com/DismasHouseOfIndiana,https://www.linkedin.com/company/dismas-house-of-indiana-inc,links taken from org website (dismashouseofindiana.org)
+Elizabeth's Village,nonprofit,KY,2026-11-13,https://www.facebook.com/ElizabethsVillage,,links taken from org website (elizabethsvillage.org)
+Family Promise of Baldwin County,nonprofit,AL,2026-11-13,https://www.facebook.com/FamilyPromisebc,,links taken from org website (familypromisebc.org); site links more than one FB page; confirm before following
+Family Promise of Lehigh Valley,nonprofit,PA,2026-11-13,https://www.facebook.com/FamPromLV,https://www.linkedin.com/company/fplehighvalley,links taken from org website (fplehighvalley.org)
+Friends of Guest House,nonprofit,VA,2026-11-13,https://www.facebook.com/FriendsofGuestHouse,https://www.linkedin.com/company/friends-of-guest-house,links taken from org website (friendsofguesthouse.org)
+Haven House of Poplar Bluff,nonprofit,MO,2026-11-13,https://www.facebook.com/HavenHouseInc,,links taken from org website (havenhousepoplarbluff.org)
+Haven House Services,nonprofit,NC,2026-11-13,,,no FB/LinkedIn link on org homepage (havenhousenc.org); left blank
+Helping Hands To Change Lives,nonprofit,OH,2026-11-13,,,no FB/LinkedIn link on org homepage (hhtocl.org); left blank
+Home for Good,nonprofit,NJ,2026-11-13,,,no FB/LinkedIn link on org homepage (homeforgoodreentry.com); left blank
+Hope House Colorado,nonprofit,CO,2026-11-13,https://www.facebook.com/hopehousecolorado,https://www.linkedin.com/company/hope-house-colorado,links taken from org website (hopehousecolorado.org)
+Hope's Door,nonprofit,NY,2026-11-13,https://www.facebook.com/hopesdoorny,https://www.linkedin.com/company/hope%27s-door-ny,links taken from org website (hopesdoorny.org)
+Joseph's House,nonprofit,NY,2026-11-13,https://www.facebook.com/JosephsHouseNY,,links taken from org website (josephshousetroy.org)
+Magdalene Serenity House,nonprofit,AR,2026-11-13,https://www.facebook.com/magdaleneserenityhouse,,links taken from org website (lovehealsnwa.org)
+Nicole's House,nonprofit,AR,2026-11-13,https://www.facebook.com/nicoleshousenwa,,links taken from org website (nicoleshousenwa.com)
+Pathways,nonprofit,AL,2026-11-13,https://www.facebook.com/pathwayshome,,links taken from org website (pathwayshome.org)
+Precious Blood Ministry of Reconciliation,nonprofit,IL,2026-11-13,https://www.facebook.com/PBMRChicago,,links taken from org website (pbmr.org)
+Prison Ministries of Carolina,nonprofit,SC,2026-11-13,,,no FB/LinkedIn link on org homepage (prisonministriesofcarolina.com); left blank
+Providence Home,nonprofit,SC,2026-11-13,,,no FB/LinkedIn link on org homepage (providencehomecolumbia.org); left blank
+Russell House,nonprofit,MO,2026-11-13,https://www.facebook.com/298244343855793,,links taken from org website (russellhousemo.org)
+S.A.F.E. Place,nonprofit,MI,2026-11-13,https://www.facebook.com/safeplacemi,,links taken from org website (safeplaceshelter.org)
+Sylvia's Place,nonprofit,MI,2026-11-13,https://www.facebook.com/SylviasPlaceMI,https://www.linkedin.com/company/sylvias-place,links taken from org website (sylviasplace.com)
+Wellspring House,nonprofit,MA,2026-11-13,https://www.facebook.com/WellspringHouse,,links taken from org website (wellspringhouse.org)
+Wings of Hope Family Crisis Services,nonprofit,OK,2026-11-13,,,no FB/LinkedIn link on org homepage (sdvs.org); left blank
+Central Louisiana Community Foundation,foundation,LA,2026-11-16,https://www.facebook.com/cenlacf,https://www.linkedin.com/company/15597082,links taken from org website (clcf.net)
+Community Foundation of Acadiana,foundation,LA,2026-11-16,,,"org website did not load; links blank, not guessed"
+Community Foundation of Central Missouri,foundation,MO,2026-11-16,,,no FB/LinkedIn link on org homepage (cfcmfoundation.org); left blank
+Community Foundation of Greater Huntsville,foundation,AL,2026-11-16,,,"org website did not load; links blank, not guessed"
+Greenbrier Valley Community Foundation,foundation,WV,2026-11-16,https://www.facebook.com/foundationgv,,links taken from org website (gvfoundation.org)
+Hinton Area Foundation,foundation,WV,2026-11-16,,,"org website did not load; links blank, not guessed"
+Hollowell Dawkins Foundation,foundation,WV,2026-11-16,,,"org website did not load; links blank, not guessed"
+Hudson Foundation of Maine,foundation,ME,2026-11-16,,,no FB/LinkedIn link on org homepage (hudsonfoundationmaine.org); left blank
+Idaho Women's Charitable Foundation,foundation,ID,2026-11-16,,,no FB/LinkedIn link on org homepage (iwcfgives.org); left blank
+James & Abigail Campbell Family Foundation,foundation,HI,2026-11-16,,,no FB/LinkedIn link on org homepage (campbellfamilyfoundation.org); left blank
+John T. Gorman Foundation,foundation,ME,2026-11-16,https://www.facebook.com/JohnTGormanFoundation,https://www.linkedin.com/company/john-t-gorman,links taken from org website (jtgfoundation.org)
+Mid-Nebraska Community Foundation,foundation,NE,2026-11-16,,,no FB/LinkedIn link on org homepage (midnebfoundation.org); left blank
+Nagel Foundation,foundation,ID,2026-11-16,,,no FB/LinkedIn link on org homepage (nagelfoundation.com); left blank
+Norwin S. and Elizabeth N. Bean Foundation,foundation,NH,2026-11-16,,,no FB/LinkedIn link on org homepage (beanfoundation.org); left blank
+Orem Community Foundation,foundation,UT,2026-11-16,https://www.facebook.com/QodeInteractive,,links taken from org website (oremcf.org)
+United Midcoast Charities,foundation,ME,2026-11-16,https://www.facebook.com/unitedmidcoastcharities,https://www.linkedin.com/company/unitedmidcoastcharities,links taken from org website (unitedmidcoastcharities.org); site links more than one FB page; confirm before following
+Watertown Area Community Foundation,foundation,SD,2026-11-16,https://www.facebook.com/WACF365,,links taken from org website (wacfsd.org)
+Windham Foundation,foundation,VT,2026-11-16,,,no FB/LinkedIn link on org homepage (windham-foundation.org); left blank
+Bethel Outreach Ministries,nonprofit,WY,2026-11-16,,,no FB/LinkedIn link on org homepage (betheloutreachministries.org); left blank
+Better Lives Rhode Island,nonprofit,RI,2026-11-16,https://www.facebook.com/BetterLivesRI,https://www.linkedin.com/company/betterlives-ri,links taken from org website (betterlivesri.org)
+Byron's House of Hope,nonprofit,NM,2026-11-16,https://www.facebook.com/Convicted-By-Christ-111057564916989,,links taken from org website (convictedbychrist.org)
+Community Rescue Mission,nonprofit,AR,2026-11-16,https://www.facebook.com/CommunityRescueMission,,links taken from org website (fscrm.org)
+Community Restorative Justice Center,nonprofit,VT,2026-11-16,https://www.facebook.com/CommunityRJC,,links taken from org website (communityrjc.org)
+Crisis Intervention Services,nonprofit,IA,2026-11-16,https://www.facebook.com/CISh3lps,https://www.linkedin.com/company/crisis-intervention-services-of-se-iowa,links taken from org website (stopdvsa.org)
+Deep Roots Recovery,nonprofit,ND,2026-11-16,,,no FB/LinkedIn link on org homepage (deeprootsrecovery.com); left blank
+F5 Project,nonprofit,ND,2026-11-16,https://www.facebook.com/f5projectorg,https://www.linkedin.com/company/f5-project,links taken from org website (f5project.org)
+Future Promises Foundation,nonprofit,DE,2026-11-16,,,no FB/LinkedIn link on org homepage (futurepromises.org); left blank
+Hawai'i Island Home for Recovery,nonprofit,HI,2026-11-16,,,"org website did not load; links blank, not guessed"
+Help Me 2 Help You,nonprofit,MD,2026-11-16,,,no FB/LinkedIn link on org homepage (helpme2helpu.com); left blank
+Holy Ground Homeless Outreach (GIM),nonprofit,LA,2026-11-16,https://www.facebook.com/GodInspiredMinistry,,links taken from org website (godinspiredministry.org)
+Hope Recovery (Hope for New Hampshire Recovery),nonprofit,NH,2026-11-16,https://www.facebook.com/HOPECRCC,,links taken from org website (recoverynh.org)
+House of Philia,nonprofit,MS,2026-11-16,,,no FB/LinkedIn link on org homepage (houseofphilia.org); left blank
+Impact Life,nonprofit,DE,2026-11-16,https://www.facebook.com/impactlifede,https://www.linkedin.com/company/impact-life-today,links taken from org website (impactlifetoday.org)
+Kind Grounds,nonprofit,WY,2026-11-16,,https://www.linkedin.com/company/105910010,links taken from org website (kindgrounds.org)
+Lassen Family Services,nonprofit,CA,2026-11-16,https://www.facebook.com/lassenfamilyservices,,links taken from org website (lassenfamilyservices.org)
+MAE Organization for the Homeless,nonprofit,RI,2026-11-16,https://www.facebook.com/MAE4Life,https://www.linkedin.com/company/mae-organization-for-the-homeless,links taken from org website (maeorganization.org); site links more than one LinkedIn page; confirm
+Margo's Place,nonprofit,SD,2026-11-16,https://www.facebook.com/brookingsdomesticabuseshelter,,links taken from org website (margosplace.co)
+NELA Supportive Communities,nonprofit,LA,2026-11-16,https://www.facebook.com/NELASupportiveCommunities,,links taken from org website (nelasupportivecommunities.org)
+New Patterns,nonprofit,ND,2026-11-16,,,no FB/LinkedIn link on org homepage (newpatterns.org); left blank
+Next Step Housing Assistance,nonprofit,CA,2026-11-16,,,no FB/LinkedIn link on org homepage (nextstephousingassistance.org); left blank
+R.O.O.T.S. Reentry Services,nonprofit,MS,2026-11-16,,https://www.linkedin.com/company/r-o-o-t-s-reentry-services,links taken from org website (rootsreentry.org)
+Recovery Group of Southern West Virginia,nonprofit,WV,2026-11-16,,,no FB/LinkedIn link on org homepage (recoveryswv.org); left blank
+Riverplace Assistance Corporation,nonprofit,KY,2026-11-16,,,no FB/LinkedIn link on org homepage (riverplaceassistance.com); left blank
+SPIN (Supporting People In Need),nonprofit,NM,2026-11-16,https://www.facebook.com/spinhousingnm,,links taken from org website (spinhousingnm.org)
+St. Francis House,nonprofit,AR,2026-11-16,,,no FB/LinkedIn link on org homepage (stfrancishouselr.org); left blank
+The Family Support Center,nonprofit,NV,2026-11-16,,,"org website did not load; links blank, not guessed"
+The Hope Dealer Project,nonprofit,WV,2026-11-16,https://www.facebook.com/TheHopeDealerProject,,links taken from org website (hopedealerprojectwv.org)
+Way Station,nonprofit,NH,2026-11-16,https://www.facebook.com/waystationh,,links taken from org website (waystationnh.org)
