@@ -26,7 +26,7 @@
 
 **Meta (Facebook and Instagram feed)**
 - **Primary text:**
-  > Your clients trust you with sensitive information. Row-level security and MFA for every login. We will sign a business associate agreement before any real client data goes in. $10,000 per organization, for teams of 3 to 30. Questions? (775) 722-7725 (call or WhatsApp).
+  > Your clients trust you with sensitive information. Row-level security, and MFA available on every login. We will sign a business associate agreement before any real client data goes in. $10,000 per organization, for teams of 3 to 30. Questions? (775) 722-7725 (call or WhatsApp).
 - **Headline:** Client data, locked down
 - **Description:** Row-level security and MFA, built in.
 - **CTA button:** Learn More (after PR #2 merges) / Send Message (before)
@@ -34,13 +34,13 @@
 
 **LinkedIn variant (Sponsored Content, single image)**
 - **Intro text:**
-  > Small nonprofits handle health, housing and family information too. Row-level security and MFA for every login. We will sign a business associate agreement before any real client data goes in. Built for teams of 3 to 30 staff. $10,000 per organization. Questions? (775) 722-7725 (call or WhatsApp).
-- **Headline:** Row-level security and MFA for every login
+  > Small nonprofits handle health, housing and family information too. Row-level security, and MFA available on every login. We will sign a business associate agreement before any real client data goes in. Built for teams of 3 to 30 staff. $10,000 per organization. Questions? (775) 722-7725 (call or WhatsApp).
+- **Headline:** Row-level security and MFA on every login
 - **CTA:** Learn More (destination `[LINK: marketing page after PR #2 merges]`)
 - **Visual:** Same illustration, 1200x627 crop.
 
 ## Review notes for Holdings Engineering
 
-- Per the review of 9715810, the word HIPAA is not used in any ad headline, primary text, description or image text. Creative B now leads with the controls: "Row-level security and MFA for every login. We will sign a business associate agreement before any real client data goes in."
+- Per the review of 9715810, the word HIPAA is not used in any ad headline, primary text, description or image text. Creative B now leads with the controls: "Row-level security, and MFA available on every login. We will sign a business associate agreement before any real client data goes in."
 - Neither creative mentions per-customer AWS hosting. If Ryan wants it, it goes in as "will run in your own AWS account" (future tense).
 - Meta may still review health-related wording because Creative B talks about sensitive client information. The word HIPAA was dropped from ad copy to avoid a compliance claim and to reduce that review risk.
