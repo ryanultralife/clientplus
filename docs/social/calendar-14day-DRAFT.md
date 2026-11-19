@@ -46,7 +46,24 @@
 - **Image:** Tablet on a front-desk counter showing the kiosk screen ("Welcome — tap to check in"). Illustrative mockup, no faces.
 - **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
 
-### 4. Wed 2026-11-25 — Funder value: grant tracking
+### 4. Wed 2026-11-25 — Thanksgiving (light, no pitch)
+- **Platform:** Facebook Page
+- **Suggested time:** Facebook 12:00 PM PT
+- **Copy:**
+  > Wishing a restful Thanksgiving tomorrow to the caseworkers, front-desk staff, volunteers and directors working the holiday. You keep doors open on the holidays. Thank you.
+- **Image:** Warm illustrated graphic (autumn leaves, "Thank you, nonprofit staff"). No people photos.
+- **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
+
+### 5. Mon 2026-11-30 — GivingTuesday eve
+- **Platform:** Both
+- **Suggested time:** LinkedIn 9:30 AM recipient-local; Facebook 12:00 PM PT
+- **Copy:**
+  > Tomorrow is GivingTuesday. Donors want to know their gift made a difference, and good records are how you show it. Client+ helps small teams track who they served and which grant paid for it.
+  > Ask us about a free 30-day trial: (775) 722-7725 (call or WhatsApp). [LINK: marketing page after PR #2 merges]
+- **Image:** "GivingTuesday — show your impact" text card with Client+ mark.
+- **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
+
+### 6. Tue 2026-12-01 — Funder value: grant tracking
 - **Platform:** Both
 - **Suggested time:** LinkedIn 9:30 AM recipient-local; Facebook 12:00 PM PT
 - **Copy:**
@@ -55,7 +72,7 @@
 - **Image:** Demo screenshot of the grant tracking view (synthetic grant names like "Sample Foundation Grant FY26").
 - **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
 
-### 5. Mon 2026-11-30 — Security posture: row-level security
+### 7. Wed 2026-12-02 — Security posture: row-level security
 - **Platform:** LinkedIn first, Facebook Page second
 - **Suggested time:** LinkedIn 9:30 AM recipient-local; Facebook 12:00 PM PT
 - **Copy:**
@@ -64,7 +81,7 @@
 - **Image:** Simple diagram: three staff icons, each with a lock, each seeing a different subset of records.
 - **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
 
-### 6. Tue 2026-12-01 — Security posture: MFA
+### 8. Thu 2026-12-03 — Security posture: MFA
 - **Platform:** Both
 - **Suggested time:** LinkedIn 9:30 AM recipient-local; Facebook 12:00 PM PT
 - **Copy:**
@@ -73,7 +90,7 @@
 - **Image:** Phone showing a 6-digit code prompt next to a laptop login screen. Illustrative.
 - **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
 
-### 7. Wed 2026-12-02 — Founding-customer call
+### 9. Fri 2026-12-04 — Founding-customer call
 - **Platform:** Both
 - **Suggested time:** LinkedIn 9:30 AM recipient-local; Facebook 12:00 PM PT
 - **Copy:**
@@ -83,32 +100,13 @@
 - **Image:** Text card: "Founding customers wanted — nonprofits with 3–30 staff". No logos of any organization.
 - **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
 
-### 8. Thu 2026-12-03 — Thanksgiving (light, no pitch)
-- **Platform:** Facebook Page
-- **Suggested time:** Facebook 12:00 PM PT
-- **Scheduling note:** This slot is no longer Thanksgiving Day (Thu 2026-11-26, which this calendar skips). The copy below is unchanged from 1769464 and still reads as a Thanksgiving-day message. Rewrite before scheduling if it will go out on 12/3.
-- **Copy:**
-  > Happy Thanksgiving to the caseworkers, front-desk staff, volunteers and directors working today. You keep doors open on the holidays. Thank you.
-- **Image:** Warm illustrated graphic (autumn leaves, "Thank you, nonprofit staff"). No people photos.
-- **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
-
-### 9. Fri 2026-12-04 — Funder and board reporting
+### 10. Mon 2026-12-07 — Funder and board reporting
 - **Platform:** LinkedIn first, Facebook Page second
 - **Suggested time:** LinkedIn 9:30 AM recipient-local; Facebook 12:00 PM PT
 - **Copy:**
   > Year-end is coming: board packets, funder reports, annual numbers. When client records, services and grants live in one system, year-end reporting starts from clean data instead of copy-paste.
   > Client+: case management for nonprofit teams of 3 to 30. $10,000 per organization.
 - **Image:** Graphic of a simple report page with bar charts (synthetic numbers, labeled "Sample").
-- **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
-
-### 10. Mon 2026-12-07 — GivingTuesday eve
-- **Platform:** Both
-- **Suggested time:** LinkedIn 9:30 AM recipient-local; Facebook 12:00 PM PT
-- **Scheduling note:** GivingTuesday 2026 is Tue 2026-12-01. This slot is now after that day. The copy below is unchanged from 1769464 and still says "Tomorrow is GivingTuesday." Rewrite before scheduling if it will go out on 12/7.
-- **Copy:**
-  > Tomorrow is GivingTuesday. Donors want to know their gift made a difference, and good records are how you show it. Client+ helps small teams track who they served and which grant paid for it.
-  > Ask us about a free 30-day trial: (775) 722-7725 (call or WhatsApp). [LINK: marketing page after PR #2 merges]
-- **Image:** "GivingTuesday — show your impact" text card with Client+ mark.
 - **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
 
 ## Cross-likes and engagement plan (guidance only, no actions taken)
