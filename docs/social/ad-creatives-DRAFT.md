@@ -1,6 +1,6 @@
 # Client+ ad creatives (DRAFT)
 
-**Status:** DRAFT, awaiting Ryan sign. Nothing has been created in Meta Ads Manager or LinkedIn Campaign Manager, and no spend is set. Ryan signs all ad copy and all spend.
+**Status:** DRAFT, awaiting Ryan sign. Nothing has been created in Meta Ads Manager or LinkedIn Campaign Manager, and no spend is set. Ryan signs all ad copy and all spend. Ads stay off until Ryan sets a daily budget.
 **Advertiser:** Facebook Page "Client+ Case Management". LinkedIn variants need a Client+ LinkedIn Page first (none exists yet).
 **Link rule:** destination is `[LINK: marketing page after PR #2 merges]`. Until PR #2 merges, use a "Send Message" objective or hold the ads.
 **Guards:** contact is (775) 722-7725 (call or WhatsApp) (no old github.io page URL); flat $10,000 per organization, no cap; teams of 3 to 30 staff; features limited to the synthetic-data demo; no compliance-certification claim; do not use the word HIPAA in ad copy (lead with row-level security and MFA instead); BAA and per-customer AWS hosting in future tense; trial only as "Ask us about a free 30-day trial"; no customer names, counts or testimonials.
