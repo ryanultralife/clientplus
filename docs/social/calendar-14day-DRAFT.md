@@ -85,8 +85,8 @@
 - **Platform:** Both
 - **Suggested time:** LinkedIn 9:30 AM recipient-local; Facebook 12:00 PM PT
 - **Copy:**
-  > A stolen password shouldn't open your client files. Every Client+ login supports multi-factor authentication. MFA available on every login, and once a staff member turns it on, client records stay locked until they pass it.
-  > Small nonprofits are targets too. Row-level security, and MFA available on every login. We will sign a business associate agreement before any real client data goes in.
+  > A stolen password shouldn't open your client files. MFA available on every login, and once a staff member turns it on, client records stay locked until they pass it.
+  > Small nonprofits are targets too. Row-level security comes standard. We will sign a business associate agreement before any real client data goes in.
 - **Image:** Phone showing a 6-digit code prompt next to a laptop login screen. Illustrative.
 - **Status:** APPROVED (Social sign-off per Ryan 11/19), ready to schedule
 
